@@ -54,6 +54,9 @@ Geben Sie auch Beispielbefehle für die _Unicorns-Datenbank_ an.
 
 ## 2. Das Professoren-Informationssystem  
 
+### 2.1 Eine MongoDB-Datenbank erstellen  
+
 Sie haben bereits zu Beginn des Kurses ein Datenbankschema und Stored Procedures / Functions für ein "Professoren-Informationssystem" entwickelt.  
 
-Erstellen Sie nun eine Datenbank in MongoDB, die mehrere (mindestens 3) Einträge für Bachelorarbeiten enthält. Bitte achten Sie darauf, dass die Daten in JSON formatiert sind.  
+Erstellen Sie nun eine Datenbank in MongoDB, die mehrere (mindestens 3) Einträge für Bachelorarbeiten enthält. Bitte achten Sie darauf, dass die Daten in JSON formatiert sind. Vergleichen Sie Ihre Dokumente mit den Dokumenten Ihres Sitznachbarns.  
+Welche Unterschiede gibt es zwischen Ihren Dokumenten?  

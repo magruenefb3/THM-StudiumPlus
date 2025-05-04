@@ -1,10 +1,12 @@
+Themen 05.05.2025:
+Datenbanksysteme
 
 Einreichaufgaben
 a) Stored Procedures zu 
 A1: Professoren-Datenbank --> 2P bis 7.5.25 12 Uhr
 A2: Hashing --> 1P bis 14.5.25 23:59
 A3: Datenformate --> 1P bis 10.5.25 18:36
-
+A4: SQL - MongoDB --> 1P bis 19.05.25 19:00
 
 
 

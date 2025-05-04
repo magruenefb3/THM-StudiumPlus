@@ -1,4 +1,4 @@
-# Teil 2: MongoDB, Vergleich SQL mit JSON-Queries (v2)
+# Übung 4, Teil 2: MongoDB, Vergleich SQL mit JSON-Queries (v2)
 
 Prof. Dr. Markus Grüne, 2025  
 

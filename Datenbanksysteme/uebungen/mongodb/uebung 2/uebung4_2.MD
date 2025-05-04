@@ -51,3 +51,9 @@ Geben Sie auch Beispielbefehle für die _Unicorns-Datenbank_ an.
 |  ...  mit COUNT | | | |  
 | UPDATE im Sinne von CRUD und SQL | | | |  
 | DELETE im Sinne von CRUD und SQL | | | |  
+
+## 2. Das Professoren-Informationssystem  
+
+Sie haben bereits zu Beginn des Kurses ein Datenbankschema und Stored Procedures / Functions für ein "Professoren-Informationssystem" entwickelt.  
+
+Erstellen Sie nun eine Datenbank in MongoDB, die mehrere (mindestens 3) Einträge für Bachelorarbeiten enthält. Bitte achten Sie darauf, dass die Daten in JSON formatiert sind.  

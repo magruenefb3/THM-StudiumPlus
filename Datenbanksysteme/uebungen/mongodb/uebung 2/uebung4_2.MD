@@ -38,11 +38,10 @@ Geben Sie auch Beispielbefehle für die _Unicorns-Datenbank_ an.
 
 | **CRUD-Operation** | **SQL (z. B. MySQL)** | **MongoDB** | **Beispiele**               |
 |---------------|-----------------------|---------------------|----------------------------------|
-| **Create** im Sinne von CRUD   (nicht mit SQL create zu verwechseln!) | `INSERT INTO table_name (column1, column2) VALUES (value1, value2);`                 | `db.collection.insertOne({ "field1": value1, "field2": value2 });`          | **SQL**: `INSERT INTO users (name, age) VALUES ('Alice', 25);`<br>  **MongoDB**: `db.users.insertOne({ "name": "Alice", "age": 25 });` <br> Bitte mit treffenden Abfragen gegen die Unicorns ersetzen! |
+| **Create** im Sinne von CRUD   (nicht mit SQL create zu verwechseln!) = INSERT IN SQL | `INSERT INTO table_name (column1, column2) VALUES (value1, value2);`                 | `db.collection.insertOne({ "field1": value1, "field2": value2 });`          | **SQL**: `INSERT INTO users (name, age) VALUES ('Alice', 25);`<br>  **MongoDB**: `db.users.insertOne({ "name": "Alice", "age": 25 });` <br> Bitte mit treffenden Abfragen gegen die Unicorns ersetzen! |
 | CREATE im Sinne von SQL (inkl. Indexierung) |  |   | |  
 | ALTER TABLE im Sinne von SQL | | | |  
 | DROP TABLE im Sinne von SQL | | | |  
-| INSERT | | | |  
 | READ im Sinne von CRUD <br> D.h. SELECT FROM WHERE | | | |  
 |   ... mit logischem AND | | | |  
 |   ... mit logischem ODER | | | |  

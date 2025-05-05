@@ -1,0 +1,12 @@
+Sqlite is an integral part of python
+If you need to handle sqlite databases on the command line, 
+please install the SQLite3 tools from their web page: 
+https://www.sqlite.org/download.html
+
+A warning may appear when downloading to Win 11. 
+You can also add the path to your environment variables.
+This makes handling easier. 
+
+If you see issues with NumPy. It can be related to the path length.
+A solution is given here:
+https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=powershell

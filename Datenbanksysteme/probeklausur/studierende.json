@@ -1,0 +1,7710 @@
+[{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2b9f"
+	},
+	"anrede": "Herr",
+	"vorname": "Felix",
+	"nachname": "Schuster",
+	"email": "felix.schuster@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 85296374,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null,
+	"arbeiten": [
+		{
+			"titel": "Risikobewertung von Kryptowährungen mittels stochastischer Modelle",
+			"idArbeit": 136,
+			"idStudiengang": 3,
+			"startDatum": {
+				"$date": "2025-03-19T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-06-04T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-06-26T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 136,
+				"idKorreferent": 7,
+				"idReferent": 13,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 3,
+				"titelNachAbschluss": "B.Eng. in Bauingenieurwesen dual"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2ba0"
+	},
+	"anrede": "Frau",
+	"vorname": "Clara",
+	"nachname": "Fischer",
+	"email": "clara.fischer@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 147258369,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2ba1"
+	},
+	"anrede": "Herr",
+	"vorname": "Ben",
+	"nachname": "Lehmann",
+	"email": "ben.lehmann@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 258369147,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2ba2"
+	},
+	"anrede": "Frau",
+	"vorname": "Jessica",
+	"nachname": "Mayer",
+	"email": "jessica.mayer@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 741852963,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null,
+	"arbeiten": [
+		{
+			"titel": "Implementierung von Blockchain in der Fertigungsindustrie",
+			"idArbeit": 133,
+			"idStudiengang": 2,
+			"startDatum": {
+				"$date": "2025-01-10T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-04-25T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-05-15T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:45:00Z"
+			},
+			"noten": {
+				"idArbeit": 133,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 2,
+				"titelNachAbschluss": "B.Eng. in Bauingenieurwesen"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2ba3"
+	},
+	"anrede": "Herr",
+	"vorname": "Max",
+	"nachname": "Mustermann",
+	"email": "max.mustermann@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 987654320,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2ba4"
+	},
+	"anrede": "Frau",
+	"vorname": "Anna",
+	"nachname": "Meier",
+	"email": "anna.meier@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1029384756,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null,
+	"arbeiten": [
+		{
+			"titel": "Künstliche Intelligenz in der Logistik 4.0",
+			"idArbeit": 123,
+			"idStudiengang": 17,
+			"startDatum": {
+				"$date": "2025-01-23T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-05-05T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-05-28T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:15:00Z"
+			},
+			"noten": {
+				"idArbeit": 123,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 1,
+				"idStudiengang": 17,
+				"titelNachAbschluss": "M.Sc. in Urban Agglomerations"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2ba5"
+	},
+	"anrede": null,
+	"vorname": "Lisa",
+	"nachname": "Meyer",
+	"email": "lisa.meyer@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1234567890,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Digitalisierung im Mittelstand",
+			"idArbeit": 3,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2020-10-18T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-05-01T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-06-02T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 3,
+				"idKorreferent": 2,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2ba6"
+	},
+	"anrede": null,
+	"vorname": "Ayse",
+	"nachname": "Yilmaz",
+	"email": "ayse.yilmaz@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1234567891,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "E-Commerce in der Turkmenistani",
+			"idArbeit": 28,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2022-02-09T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-07-18T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-09-28T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 28,
+				"idKorreferent": 15,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		},
+		{
+			"titel": "E-Commerce in der Walachei",
+			"idArbeit": 58,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2023-05-16T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-10-30T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-11-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 58,
+				"idKorreferent": 2,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2ba7"
+	},
+	"anrede": null,
+	"vorname": "Mehmet",
+	"nachname": "Aydin",
+	"email": "mehmet.aydin@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1234567893,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Digitalisierung im Gesundheitswesen",
+			"idArbeit": 87,
+			"idStudiengang": 77,
+			"startDatum": {
+				"$date": "2024-04-09T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-04-08T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2024-06-30T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2024-06-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 87,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.A.",
+				"idFachbereich": 4,
+				"idStudiengang": 77,
+				"titelNachAbschluss": "M.A. in Pflege- und Gesundheitsmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2ba8"
+	},
+	"anrede": null,
+	"vorname": "Mia",
+	"nachname": "Lange",
+	"email": "mia.lange@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1237894560,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Markteintrittsstrategien in Asien",
+			"idArbeit": 20,
+			"idStudiengang": 53,
+			"startDatum": {
+				"$date": "2021-09-27T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-12-02T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-02-21T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 20,
+				"idKorreferent": 11,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 53,
+				"titelNachAbschluss": "B.A. in Public und Non-Profit Management"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2ba9"
+	},
+	"anrede": null,
+	"vorname": "Priya",
+	"nachname": "Sharma",
+	"email": "priya.sharma@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1239874563,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Social Entrepreneurship in Indien",
+			"idArbeit": 1,
+			"idStudiengang": 68,
+			"startDatum": {
+				"$date": "2023-08-20T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-10-31T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-05-30T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 1,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 4,
+				"idStudiengang": 68,
+				"titelNachAbschluss": "B.A. in Soziale Arbeit"
+			}
+		},
+		{
+			"titel": "Social Entrepreneurship in Indien",
+			"idArbeit": 43,
+			"idStudiengang": 55,
+			"startDatum": {
+				"$date": "2023-01-24T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-03-31T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-04-21T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 43,
+				"idKorreferent": 24,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 55,
+				"titelNachAbschluss": "B.A. in Tourismusmanagement - Tourism Management dual"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2baa"
+	},
+	"anrede": null,
+	"vorname": "Vikram",
+	"nachname": "Mehta",
+	"email": "vikram.mehta@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1239874564,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Digital Payments in Indien",
+			"idArbeit": 101,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2024-11-12T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-03-04T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2025-04-15T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2025-03-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 101,
+				"idKorreferent": 7,
+				"idReferent": 2,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bab"
+	},
+	"anrede": null,
+	"vorname": "Markus",
+	"nachname": "Wolf",
+	"email": "markus.wolf@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1239874565,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Sicherheit in Cloud-Systemen",
+			"idArbeit": 117,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2025-05-15T00:00:00Z"
+			},
+			"abgabeDatum": null,
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 117,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bac"
+	},
+	"anrede": "Herr",
+	"vorname": "Fabian",
+	"nachname": "Müller",
+	"email": "fabian.mueller@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1357924680,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null,
+	"arbeiten": [
+		{
+			"titel": "Entwicklung eines autonomen Sensorsystems für Smart Homes",
+			"idArbeit": 130,
+			"idStudiengang": 22,
+			"startDatum": {
+				"$date": "2025-01-28T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-05-12T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-06-05T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:50:00Z"
+			},
+			"noten": {
+				"idArbeit": 130,
+				"idKorreferent": 14,
+				"idReferent": 5,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 2,
+				"idStudiengang": 22,
+				"titelNachAbschluss": "B.Eng. in Elektro- und Informationstechnik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bad"
+	},
+	"anrede": null,
+	"vorname": "Tobias",
+	"nachname": "Schneider",
+	"email": "tobias.schneider@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1472583690,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Optimierung von Datenbanken",
+			"idArbeit": 9,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2021-04-15T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-06-08T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-06-30T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 9,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		},
+		{
+			"titel": "Big Data Analyse im Gesundheitswesen",
+			"idArbeit": 132,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2025-03-12T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-06-27T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-06-20T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 132,
+				"idKorreferent": 5,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bae"
+	},
+	"anrede": null,
+	"vorname": "Sofia",
+	"nachname": "Rodriguez",
+	"email": "sofia.rodriguez@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1472583691,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Cybersecurity in IoT",
+			"idArbeit": 34,
+			"idStudiengang": 25,
+			"startDatum": {
+				"$date": "2022-10-19T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-01-02T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-01-25T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 34,
+				"idKorreferent": 20,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 25,
+				"titelNachAbschluss": "B.Sc. in Informatik"
+			}
+		},
+		{
+			"titel": "Cybersecurity in IoT",
+			"idArbeit": 64,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2023-06-22T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-08-31T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-09-05T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T17:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 64,
+				"idKorreferent": 7,
+				"idReferent": 17,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2baf"
+	},
+	"anrede": null,
+	"vorname": "Thanh",
+	"nachname": "Pham",
+	"email": "thanh.pham@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1472583692,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Entwicklung eines Spiels",
+			"idArbeit": 49,
+			"idStudiengang": 68,
+			"startDatum": {
+				"$date": "2023-03-01T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-07-14T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-07-26T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 49,
+				"idKorreferent": 7,
+				"idReferent": 2,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 4,
+				"idStudiengang": 68,
+				"titelNachAbschluss": "B.A. in Soziale Arbeit"
+			}
+		},
+		{
+			"titel": "Entwicklung eines Spiels",
+			"idArbeit": 78,
+			"idStudiengang": 72,
+			"startDatum": {
+				"$date": "2023-11-08T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-02-29T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-03-28T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 78,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.A.",
+				"idFachbereich": 4,
+				"idStudiengang": 72,
+				"titelNachAbschluss": "M.A. in Diversität und Inklusion"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bb0"
+	},
+	"anrede": null,
+	"vorname": "Lucia",
+	"nachname": "Fernandez",
+	"email": "lucia.fernandez@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1472583693,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Nachhaltigkeit in der Modeindustrie",
+			"idArbeit": 93,
+			"idStudiengang": 47,
+			"startDatum": {
+				"$date": "2024-06-21T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-12-02T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-01-15T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 93,
+				"idKorreferent": 22,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 47,
+				"titelNachAbschluss": "B.A. in Betriebswirtschaftslehre"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bb1"
+	},
+	"anrede": null,
+	"vorname": "Bao",
+	"nachname": "Truong",
+	"email": "bao.truong@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1472583694,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Entwicklung eines IoT-Geräts",
+			"idArbeit": 106,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2024-12-18T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-02-19T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2025-03-30T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2025-02-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 106,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "4.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bb2"
+	},
+	"anrede": null,
+	"vorname": "Jan",
+	"nachname": "Kohl",
+	"email": "jan.kohl@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1472583695,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 0,
+	"arbeiten": [
+		{
+			"titel": "Optimierung von Produktionsprozessen",
+			"idArbeit": 121,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2025-03-30T00:00:00Z"
+			},
+			"abgabeDatum": null,
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 121,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bb3"
+	},
+	"anrede": null,
+	"vorname": "Nina",
+	"nachname": "Graf",
+	"email": "nina.graf@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1479632580,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Entwicklung eines Web-Crawlers",
+			"idArbeit": 24,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2021-12-21T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-03-11T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-05-29T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 24,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bb4"
+	},
+	"anrede": null,
+	"vorname": "Paul",
+	"nachname": "Schulz",
+	"email": "paul.schulz@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1593574862,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Simulation von Lieferketten",
+			"idArbeit": 15,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2021-07-06T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-10-27T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-11-24T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 15,
+				"idKorreferent": 10,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bb5"
+	},
+	"anrede": null,
+	"vorname": "Olivia",
+	"nachname": "Smith",
+	"email": "olivia.smith@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1593574863,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Digital Marketing Trends",
+			"idArbeit": 40,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2022-12-21T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-02-22T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-03-13T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 40,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		},
+		{
+			"titel": "Digital Marketing Trends",
+			"idArbeit": 70,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2023-07-12T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-11-01T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 70,
+				"idKorreferent": 10,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "5.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "5.0"
+				},
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bb6"
+	},
+	"anrede": null,
+	"vorname": "Parsa",
+	"nachname": "Nowak",
+	"email": "parsa.nowak@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1593574864,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Handelsbeziehungen Iran-Europa",
+			"idArbeit": 55,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2023-04-27T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-07-12T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-07-26T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 55,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		},
+		{
+			"titel": "Handelsbeziehungen Iran-Europa",
+			"idArbeit": 84,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2024-02-13T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-04-22T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-06-04T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 84,
+				"idKorreferent": 7,
+				"idReferent": 2,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bb7"
+	},
+	"anrede": null,
+	"vorname": "Harry",
+	"nachname": "Jones",
+	"email": "harry.jones@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1593574865,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Big Data in der Wirtschaft",
+			"idArbeit": 98,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2024-09-13T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-10-25T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-10-22T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 98,
+				"idKorreferent": 7,
+				"idReferent": 17,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bb8"
+	},
+	"anrede": null,
+	"vorname": "Lena",
+	"nachname": "Bauer",
+	"email": "lena.bauer@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1593574866,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Internationales Marketing",
+			"idArbeit": 109,
+			"idStudiengang": 47,
+			"startDatum": {
+				"$date": "2025-01-22T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-03-26T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2025-03-27T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2025-03-31T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:40:00Z"
+			},
+			"noten": {
+				"idArbeit": 109,
+				"idKorreferent": 3,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 47,
+				"titelNachAbschluss": "B.A. in Betriebswirtschaftslehre"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bb9"
+	},
+	"anrede": "Frau",
+	"vorname": "Lara",
+	"nachname": "Hoffmann",
+	"email": "lara.hoffmann@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 1597534862,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null,
+	"arbeiten": [
+		{
+			"titel": "Entwicklung einer energieeffizienten Wasseraufbereitungsanlage für ländliche Gebiete",
+			"idArbeit": 135,
+			"idStudiengang": 2,
+			"startDatum": {
+				"$date": "2025-02-28T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-05-07T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-05-29T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T09:45:00Z"
+			},
+			"noten": {
+				"idArbeit": 135,
+				"idKorreferent": 13,
+				"idReferent": 5,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 2,
+				"titelNachAbschluss": "B.Eng. in Bauingenieurwesen"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bba"
+	},
+	"anrede": "Frau",
+	"vorname": "Lea",
+	"nachname": "Schulz",
+	"email": "lea.schulz@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 2468135790,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null,
+	"arbeiten": [
+		{
+			"titel": "Optimierung von Finanzportfolios durch Maschinelles Lernen",
+			"idArbeit": 125,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2025-03-07T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-06-20T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-05-15T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 125,
+				"idKorreferent": 7,
+				"idReferent": 13,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bbb"
+	},
+	"anrede": null,
+	"vorname": "Tim",
+	"nachname": "Reuter",
+	"email": "tim.reuter@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 2581479630,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Exportstrategien für KMU",
+			"idArbeit": 25,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2021-12-21T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-02-22T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-03-31T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 25,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bbc"
+	},
+	"anrede": null,
+	"vorname": "Lena",
+	"nachname": "Hoffmann",
+	"email": "lena.hoffmann@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 2583691470,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Modellierung von Verkehrsflüssen",
+			"idArbeit": 10,
+			"idStudiengang": 55,
+			"startDatum": {
+				"$date": "2021-05-01T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-07-29T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-08-30T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 10,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 55,
+				"titelNachAbschluss": "B.A. in Tourismusmanagement - Tourism Management dual"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bbd"
+	},
+	"anrede": null,
+	"vorname": "Adebayo",
+	"nachname": "Olu",
+	"email": "adebayo.olu@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 2583691471,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Wirtschaftsinformatik interkontinental",
+			"idArbeit": 35,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2022-10-31T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-01-04T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-02-01T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 35,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		},
+		{
+			"titel": "Trade Policies in Westafrika",
+			"idArbeit": 65,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2023-06-26T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-10-25T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-12-13T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 65,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		},
+		{
+			"titel": "Einfluss von Social Media auf politische Meinungsbildung",
+			"idArbeit": 124,
+			"idStudiengang": 70,
+			"startDatum": {
+				"$date": "2025-02-02T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-05-08T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-05-01T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:15:00Z"
+			},
+			"noten": {
+				"idArbeit": 124,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.A.",
+				"idFachbereich": 4,
+				"idStudiengang": 70,
+				"titelNachAbschluss": "M.A. in Beratung in der Arbeitswelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bbe"
+	},
+	"anrede": null,
+	"vorname": "Soo-yeon",
+	"nachname": "Lee",
+	"email": "sooyeon.lee@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 2583691472,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "K-Pop und AI - datengetriebene Entwicklung von Pop-Musik",
+			"idArbeit": 50,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2023-03-18T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-05-23T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-07-11T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 50,
+				"idKorreferent": 28,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		},
+		{
+			"titel": "K-Pop und Globalisierung",
+			"idArbeit": 79,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2023-11-10T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-01-12T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-02-16T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 79,
+				"idKorreferent": 7,
+				"idReferent": 19,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bbf"
+	},
+	"anrede": null,
+	"vorname": "Chinedu",
+	"nachname": "Obi",
+	"email": "chinedu.obi@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 2583691473,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Erneuerbare Energien in Nigeria",
+			"idArbeit": 94,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2024-07-09T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-10-02T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2024-10-27T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2024-11-22T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 94,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bc0"
+	},
+	"anrede": null,
+	"vorname": "Seo-jin",
+	"nachname": "Han",
+	"email": "seojin.han@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 2583691474,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Augmented zur Darstellung häuslicher Gewaltszenarien",
+			"idArbeit": 110,
+			"idStudiengang": 69,
+			"startDatum": {
+				"$date": "2025-01-07T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-04-25T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 110,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 4,
+				"idStudiengang": 69,
+				"titelNachAbschluss": "B.A. in Soziale Arbeit - transnational"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bc1"
+	},
+	"anrede": null,
+	"vorname": "Jan",
+	"nachname": "Kohl",
+	"email": "jan.kohl@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3216549870,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Simulation von Produktionsprozessen",
+			"idArbeit": 6,
+			"idStudiengang": 47,
+			"startDatum": {
+				"$date": "2021-01-25T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-06-18T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-07-06T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 6,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 47,
+				"titelNachAbschluss": "B.A. in Betriebswirtschaftslehre"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bc2"
+	},
+	"anrede": null,
+	"vorname": "Nguyen",
+	"nachname": "Tran",
+	"email": "nguyen.tran@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3216549871,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Simulation von Verkehrsnetzen",
+			"idArbeit": 31,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2022-06-15T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-11-30T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-12-19T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 31,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		},
+		{
+			"titel": "Simulation von Verkehrsnetzen",
+			"idArbeit": 61,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2023-06-15T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-08-17T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 61,
+				"idKorreferent": 3,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "5.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "5.0"
+				},
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bc3"
+	},
+	"anrede": null,
+	"vorname": "Selin",
+	"nachname": "Kaya",
+	"email": "selin.kaya@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3216549872,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Simulation von Wassermanagement",
+			"idArbeit": 46,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2023-02-07T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-04-11T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-04-21T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 46,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		},
+		{
+			"titel": "Nachhaltigkeit in der Betriebswirtschaft",
+			"idArbeit": 75,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2023-10-13T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-12-15T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-02-07T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 75,
+				"idKorreferent": 7,
+				"idReferent": 3,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bc4"
+	},
+	"anrede": null,
+	"vorname": "Lan",
+	"nachname": "Vu",
+	"email": "lan.vu@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3216549873,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Optimierung von Datenbanken",
+			"idArbeit": 90,
+			"idStudiengang": 30,
+			"startDatum": {
+				"$date": "2024-05-02T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-06-25T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-07-29T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 90,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 2,
+				"idStudiengang": 30,
+				"titelNachAbschluss": "B.Eng. in Maschinenbau dt. -span. Doppelabschluss"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bc5"
+	},
+	"anrede": null,
+	"vorname": "Emre",
+	"nachname": "Celik",
+	"email": "emre.celik@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3216549874,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "KI in der Kundenbetreuung",
+			"idArbeit": 103,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2024-12-13T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-02-14T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2025-02-26T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2025-02-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 103,
+				"idKorreferent": 27,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bc6"
+	},
+	"anrede": null,
+	"vorname": "Nina",
+	"nachname": "Graf",
+	"email": "nina.graf@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3216549875,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 0,
+	"arbeiten": [
+		{
+			"titel": "Einsatz von IoT in der Industrie",
+			"idArbeit": 119,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2025-03-01T00:00:00Z"
+			},
+			"abgabeDatum": null,
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 119,
+				"idKorreferent": 10,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bc7"
+	},
+	"anrede": null,
+	"vorname": "Elias",
+	"nachname": "Huber",
+	"email": "elias.huber@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3219876540,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Optimierung von Produktionsabläufen",
+			"idArbeit": 21,
+			"idStudiengang": 48,
+			"startDatum": {
+				"$date": "2021-10-26T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-01-03T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-02-14T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 21,
+				"idKorreferent": 12,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "4.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 48,
+				"titelNachAbschluss": "B.A. in Betriebswirtschaft mit Doppelabschluss"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bc8"
+	},
+	"anrede": null,
+	"vorname": "Sara",
+	"nachname": "Koch",
+	"email": "sara.koch@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3571594862,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Controlling in KMU",
+			"idArbeit": 16,
+			"idStudiengang": 41,
+			"startDatum": {
+				"$date": "2021-07-26T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-12-28T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-02-15T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 16,
+				"idKorreferent": 7,
+				"idReferent": 17,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "4.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 2,
+				"idStudiengang": 41,
+				"titelNachAbschluss": "B.Eng. in Wirtschaftsingenieurwesen Online"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bc9"
+	},
+	"anrede": null,
+	"vorname": "Hoang",
+	"nachname": "Le",
+	"email": "hoang.le@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3571594863,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Fallarbeit im Kinderschutz",
+			"idArbeit": 41,
+			"idStudiengang": 68,
+			"startDatum": {
+				"$date": "2023-01-09T00:00:00Z"
+			},
+			"abgabeDatum": null,
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-04-21T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 41,
+				"idKorreferent": 7,
+				"idReferent": 17,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 4,
+				"idStudiengang": 68,
+				"titelNachAbschluss": "B.A. in Soziale Arbeit"
+			}
+		},
+		{
+			"titel": "Simulation von Produktionslinien",
+			"idArbeit": 71,
+			"idStudiengang": 68,
+			"startDatum": {
+				"$date": "2023-07-12T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-09-14T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-10-12T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 71,
+				"idKorreferent": 11,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 4,
+				"idStudiengang": 68,
+				"titelNachAbschluss": "B.A. in Soziale Arbeit"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bca"
+	},
+	"anrede": null,
+	"vorname": "Hanh",
+	"nachname": "Ngo",
+	"email": "hanh.ngo@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3571594864,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Simulation von Hochwasserrisiken",
+			"idArbeit": 56,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2023-05-01T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-07-18T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-08-24T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 56,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		},
+		{
+			"titel": "Simulation von Hochwasserrisiken",
+			"idArbeit": 85,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2024-02-23T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-05-10T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-07-04T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 85,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bcb"
+	},
+	"anrede": null,
+	"vorname": "Thi",
+	"nachname": "Nguyen",
+	"email": "thi.nguyen@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3571594865,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Entwicklung eines Webshops",
+			"idArbeit": 99,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2024-09-30T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-01-20T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2025-03-04T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2025-03-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 99,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bcc"
+	},
+	"anrede": null,
+	"vorname": "Tobias",
+	"nachname": "Klein",
+	"email": "tobias.klein@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3571594866,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Entwicklung eines KI-Chatbots",
+			"idArbeit": 113,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2025-01-28T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-05-22T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 113,
+				"idKorreferent": 5,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bcd"
+	},
+	"anrede": null,
+	"vorname": "Markus",
+	"nachname": "Wolf",
+	"email": "markus.wolf@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3692581470,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Nachhaltigkeit in der Betriebswirtschaft",
+			"idArbeit": 11,
+			"idStudiengang": 47,
+			"startDatum": {
+				"$date": "2021-05-25T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-08-03T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-09-29T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 11,
+				"idKorreferent": 6,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 47,
+				"titelNachAbschluss": "B.A. in Betriebswirtschaftslehre"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bce"
+	},
+	"anrede": null,
+	"vorname": "Fatima",
+	"nachname": "Ahmed",
+	"email": "fatima.ahmed@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3692581471,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 0,
+	"arbeiten": [
+		{
+			"titel": "Klimasimulationen mit R",
+			"idArbeit": 36,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2022-11-06T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-01-04T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-02-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 36,
+				"idKorreferent": 7,
+				"idReferent": 3,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		},
+		{
+			"titel": "Digitalisierung im Mittelstand",
+			"idArbeit": 66,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2023-06-27T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-10-24T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-12-18T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 66,
+				"idKorreferent": 6,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bcf"
+	},
+	"anrede": null,
+	"vorname": "Rahul",
+	"nachname": "Verma",
+	"email": "rahul.verma@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3692581472,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Simulation von Windenergie",
+			"idArbeit": 51,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2023-03-20T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-08-22T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-09-05T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 51,
+				"idKorreferent": 12,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		},
+		{
+			"titel": "Simulation von Windenergie",
+			"idArbeit": 80,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2023-11-14T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-02-29T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-07-03T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 80,
+				"idKorreferent": 15,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bd0"
+	},
+	"anrede": null,
+	"vorname": "Yasmin",
+	"nachname": "Ali",
+	"email": "yasmin.ali@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3692581473,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Simulation von Luftqualität in der Frankfurter Einflugschneise",
+			"idArbeit": 95,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2024-08-05T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-10-07T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-11-21T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 95,
+				"idKorreferent": 23,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6acf88c654acfc0b2bd1"
+	},
+	"anrede": null,
+	"vorname": "Ananya",
+	"nachname": "Das",
+	"email": "ananya.das@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3692581474,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Roth Technologien in Pakistan",
+			"idArbeit": 107,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2025-01-09T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-03-15T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2025-03-26T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2025-03-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 107,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bd2"
+	},
+	"anrede": "Herr",
+	"vorname": "Tim",
+	"nachname": "Berger",
+	"email": "tim.berger@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3692581478,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null,
+	"arbeiten": [
+		{
+			"titel": "Der Einfluss von Social Media auf das Wahlverhalten junger Erwachsener",
+			"idArbeit": 134,
+			"idStudiengang": 3,
+			"startDatum": {
+				"$date": "2025-02-03T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-06-18T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-06-10T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:10:00Z"
+			},
+			"noten": {
+				"idArbeit": 134,
+				"idKorreferent": 5,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 3,
+				"titelNachAbschluss": "B.Eng. in Bauingenieurwesen dual"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bd3"
+	},
+	"anrede": null,
+	"vorname": "Sophia",
+	"nachname": "Lindner",
+	"email": "sophia.lindner@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 3692587410,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 0,
+	"arbeiten": [
+		{
+			"titel": "Simulation von Klimamodellen",
+			"idArbeit": 26,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2022-01-31T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-04-18T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-09-19T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 26,
+				"idKorreferent": 7,
+				"idReferent": 17,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bd4"
+	},
+	"anrede": null,
+	"vorname": "Hannah",
+	"nachname": "Berg",
+	"email": "hannah.berg@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 4561237890,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Einsatz von KI in der Buchhaltung",
+			"idArbeit": 18,
+			"idStudiengang": 38,
+			"startDatum": {
+				"$date": "2021-07-30T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-10-11T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-10-29T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 18,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 2,
+				"idStudiengang": 38,
+				"titelNachAbschluss": "B.Eng. in Service Eng. (Wirtschaftsingenieurwesen Service)"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bd5"
+	},
+	"anrede": null,
+	"vorname": "Amina",
+	"nachname": "Diop",
+	"email": "amina.diop@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 4561237892,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Mikrokredite in Senegal",
+			"idArbeit": 45,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2023-02-03T00:00:00Z"
+			},
+			"abgabeDatum": null,
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-06-01T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 45,
+				"idKorreferent": 26,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		},
+		{
+			"titel": "Mikrokredite in Senegal",
+			"idArbeit": 74,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2023-10-04T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-12-06T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-01-25T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 74,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bd6"
+	},
+	"anrede": null,
+	"vorname": "Zainab",
+	"nachname": "Ibrahim",
+	"email": "zainab.ibrahim@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 4561237893,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Wasserressourcenmanagement",
+			"idArbeit": 102,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2024-12-13T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-02-24T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2025-03-24T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2025-03-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 102,
+				"idKorreferent": 26,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bd7"
+	},
+	"anrede": null,
+	"vorname": "Simon",
+	"nachname": "Neumann",
+	"email": "simon.neumann@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 4561237894,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Automatisierung in der Logistik",
+			"idArbeit": 118,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2025-05-15T00:00:00Z"
+			},
+			"abgabeDatum": null,
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 118,
+				"idKorreferent": 9,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bd8"
+	},
+	"anrede": null,
+	"vorname": "Emma",
+	"nachname": "Watson",
+	"email": "emma.watson@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 4567891231,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Global Branding Strategies",
+			"idArbeit": 30,
+			"idStudiengang": 48,
+			"startDatum": {
+				"$date": "2022-04-14T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-09-15T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-11-17T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 30,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 48,
+				"titelNachAbschluss": "B.A. in Betriebswirtschaft mit Doppelabschluss"
+			}
+		},
+		{
+			"titel": "Global Branding Strategies",
+			"idArbeit": 60,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2023-05-22T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-09-15T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-10-18T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 60,
+				"idKorreferent": 7,
+				"idReferent": 17,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bd9"
+	},
+	"anrede": null,
+	"vorname": "Jame",
+	"nachname": "Brown",
+	"email": "1mes.brown@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 4567891232,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Data Privacy in Social Media",
+			"idArbeit": 89,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2024-04-24T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-06-25T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-08-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T17:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 89,
+				"idKorreferent": 7,
+				"idReferent": 17,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bda"
+	},
+	"anrede": null,
+	"vorname": "Sophie",
+	"nachname": "Bauer",
+	"email": "sophie.bauer@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 4567891234,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Internationales Marketing",
+			"idArbeit": 5,
+			"idStudiengang": 48,
+			"startDatum": {
+				"$date": "2021-01-16T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-03-25T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-05-17T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 5,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 48,
+				"titelNachAbschluss": "B.A. in Betriebswirtschaft mit Doppelabschluss"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bdb"
+	},
+	"anrede": "Frau",
+	"vorname": "Mia",
+	"nachname": "Richter",
+	"email": "mia.richter@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 4862971530,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null,
+	"arbeiten": [
+		{
+			"titel": "Effekte von digitalem Lernen auf die kognitive Entwicklung von Kindern",
+			"idArbeit": 137,
+			"idStudiengang": 3,
+			"startDatum": {
+				"$date": "2025-01-05T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-04-30T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-05-20T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:20:00Z"
+			},
+			"noten": {
+				"idArbeit": 137,
+				"idKorreferent": 14,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 3,
+				"titelNachAbschluss": "B.Eng. in Bauingenieurwesen dual"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bdc"
+	},
+	"anrede": "Frau",
+	"vorname": "Emily",
+	"nachname": "Hartmann",
+	"email": "emily.hartmann@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 5310864297,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null,
+	"arbeiten": [
+		{
+			"titel": "Digitale Transformation in der Sozialen Arbeit",
+			"idArbeit": 126,
+			"idStudiengang": 68,
+			"startDatum": {
+				"$date": "2025-02-20T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-06-03T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-05-29T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T09:55:00Z"
+			},
+			"noten": {
+				"idArbeit": 126,
+				"idKorreferent": 7,
+				"idReferent": 5,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 4,
+				"idStudiengang": 68,
+				"titelNachAbschluss": "B.A. in Soziale Arbeit"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bdd"
+	},
+	"anrede": null,
+	"vorname": "Lara",
+	"nachname": "Sommer",
+	"email": "lara.sommer@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 6541239870,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Digital Twins in der Fertigung",
+			"idArbeit": 22,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2021-11-26T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-05-16T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-09-07T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 22,
+				"idKorreferent": 13,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bde"
+	},
+	"anrede": null,
+	"vorname": "Anna",
+	"nachname": "Schwarz",
+	"email": "anna.schwarz@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 6543217890,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Blockchain in der Logistik",
+			"idArbeit": 7,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2021-04-12T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-06-07T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-06-29T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 7,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bdf"
+	},
+	"anrede": null,
+	"vorname": "Ji-woo",
+	"nachname": "Kim",
+	"email": "jiwoo.kim@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 6543217891,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Blockchain in Supply Chains",
+			"idArbeit": 32,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2022-07-20T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-01-02T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-01-25T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 32,
+				"idKorreferent": 18,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		},
+		{
+			"titel": "Blockchain in Supply Chains",
+			"idArbeit": 62,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2023-06-16T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-10-31T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-12-13T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 62,
+				"idKorreferent": 4,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2be0"
+	},
+	"anrede": null,
+	"vorname": "Darius",
+	"nachname": "Rahimi",
+	"email": "darius.rahimi@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 6543217892,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "IoT in der Energieversorgung",
+			"idArbeit": 47,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2023-02-07T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-04-11T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-04-21T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 47,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		},
+		{
+			"titel": "IoT in der Energieversorgung",
+			"idArbeit": 76,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2023-10-27T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-02-16T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-03-28T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 76,
+				"idKorreferent": 13,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2be1"
+	},
+	"anrede": null,
+	"vorname": "Tae-hyung",
+	"nachname": "Kim",
+	"email": "taehyung.kim@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 6543217893,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Entwicklung eines VR-Systems",
+			"idArbeit": 91,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2024-05-14T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-07-16T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-09-06T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 91,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2be2"
+	},
+	"anrede": null,
+	"vorname": "Farhad",
+	"nachname": "Azizi",
+	"email": "farhad.azizi@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 6543217894,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Simulation von Erdbebenrisiken",
+			"idArbeit": 104,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2024-12-16T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-02-17T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2025-02-26T00:00:00Z"
+			},
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 104,
+				"idKorreferent": 28,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "5.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "5.0"
+				},
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2be3"
+	},
+	"anrede": null,
+	"vorname": "Paul",
+	"nachname": "Schulz",
+	"email": "paul.schulz@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 6543217895,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Kulturelle Einflüsse auf Markenbildung",
+			"idArbeit": 116,
+			"idStudiengang": 47,
+			"startDatum": {
+				"$date": "2025-03-27T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-05-23T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-08-15T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 116,
+				"idKorreferent": 8,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 47,
+				"titelNachAbschluss": "B.A. in Betriebswirtschaftslehre"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2be4"
+	},
+	"anrede": null,
+	"vorname": "Klara",
+	"nachname": "Fischer",
+	"email": "klara.fischer@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7418529630,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Einsatz von IoT in der Industrie",
+			"idArbeit": 12,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2021-05-31T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-06-10T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-09-29T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 12,
+				"idKorreferent": 8,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2be5"
+	},
+	"anrede": null,
+	"vorname": "Mateo",
+	"nachname": "Gomez",
+	"email": "mateo.gomez@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7418529631,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Automatisierungstechnologien in der Landwirtschaft",
+			"idArbeit": 37,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2022-11-21T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-01-23T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-02-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 37,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		},
+		{
+			"titel": "Automatisierung in der Landwirtschaft",
+			"idArbeit": 67,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2023-06-29T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-09-21T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-10-26T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 67,
+				"idKorreferent": 8,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2be6"
+	},
+	"anrede": null,
+	"vorname": "Isabella",
+	"nachname": "Lopez",
+	"email": "isabella.lopez@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7418529632,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Digitalisierung im Tourismus - der Hochsauerlandkreis",
+			"idArbeit": 52,
+			"idStudiengang": 55,
+			"startDatum": {
+				"$date": "2023-03-27T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-06-06T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-07-07T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T17:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 52,
+				"idKorreferent": 21,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 55,
+				"titelNachAbschluss": "B.A. in Tourismusmanagement - Tourism Management dual"
+			}
+		},
+		{
+			"titel": "Digitalisierung im Tourismus",
+			"idArbeit": 81,
+			"idStudiengang": 55,
+			"startDatum": {
+				"$date": "2023-12-07T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-02-08T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 81,
+				"idKorreferent": 16,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 55,
+				"titelNachAbschluss": "B.A. in Tourismusmanagement - Tourism Management dual"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2be7"
+	},
+	"anrede": null,
+	"vorname": "Diego",
+	"nachname": "Perez",
+	"email": "diego.perez@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7418529633,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Autonome Fahrzeuge",
+			"idArbeit": 96,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2024-08-05T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-10-07T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-11-21T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 96,
+				"idKorreferent": 24,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2be8"
+	},
+	"anrede": null,
+	"vorname": "Pedro",
+	"nachname": "Alvarez",
+	"email": "pedro.alvarez@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7418529634,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Automatisierung im Bergbau",
+			"idArbeit": 111,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2025-01-09T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-05-23T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-07-15T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 111,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2be9"
+	},
+	"anrede": null,
+	"vorname": "Jonas",
+	"nachname": "Neumann",
+	"email": "jonas.neumann@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7419638520,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Autonome Systeme in der Logistik",
+			"idArbeit": 27,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2022-02-01T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-05-03T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-06-02T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 27,
+				"idKorreferent": 14,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bea"
+	},
+	"anrede": "Herr",
+	"vorname": "Lucas",
+	"nachname": "Koch",
+	"email": "lucas.koch@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7531086429,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null,
+	"arbeiten": [
+		{
+			"titel": "Strategische Entscheidungen unter Unsicherheit",
+			"idArbeit": 131,
+			"idStudiengang": 54,
+			"startDatum": {
+				"$date": "2025-01-05T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-05-15T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-05-08T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:35:00Z"
+			},
+			"noten": {
+				"idArbeit": 131,
+				"idKorreferent": 14,
+				"idReferent": 13,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 54,
+				"titelNachAbschluss": "B.A. in Steuerlehre dual"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2beb"
+	},
+	"anrede": null,
+	"vorname": "Julia",
+	"nachname": "Kramer",
+	"email": "julia.kramer@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7891234560,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Strategien für globale Expansion",
+			"idArbeit": 8,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2021-04-15T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-06-03T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-06-24T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 8,
+				"idKorreferent": 5,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bec"
+	},
+	"anrede": null,
+	"vorname": "Arjun",
+	"nachname": "Singh",
+	"email": "arjun.singh@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7891234561,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Microfinance in Indien",
+			"idArbeit": 33,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2022-08-01T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-11-06T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-12-19T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 33,
+				"idKorreferent": 19,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		},
+		{
+			"titel": "Microfinance in Indien",
+			"idArbeit": 63,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2023-06-16T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-08-31T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-10-10T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 63,
+				"idKorreferent": 5,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bed"
+	},
+	"anrede": null,
+	"vorname": "Lily",
+	"nachname": "Evans",
+	"email": "lily.evans@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7891234562,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Sustainable Business Models",
+			"idArbeit": 48,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2023-02-14T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-04-18T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-06-28T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 48,
+				"idKorreferent": 27,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		},
+		{
+			"titel": "Sustainable Business Models",
+			"idArbeit": 77,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2023-10-27T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-01-02T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 77,
+				"idKorreferent": 14,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "5.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "5.0"
+				},
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bee"
+	},
+	"anrede": null,
+	"vorname": "Neha",
+	"nachname": "Patel",
+	"email": "neha.patel@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7891234563,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Suchtprävention - die Welt der Vapes",
+			"idArbeit": 92,
+			"idStudiengang": 68,
+			"startDatum": {
+				"$date": "2024-06-04T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-10-09T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2024-10-27T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2024-11-22T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 92,
+				"idKorreferent": 21,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 4,
+				"idStudiengang": 68,
+				"titelNachAbschluss": "B.A. in Soziale Arbeit"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bef"
+	},
+	"anrede": null,
+	"vorname": "Grace",
+	"nachname": "Miller",
+	"email": "grace.miller@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7891234564,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Ethische Aspekte von KI",
+			"idArbeit": 105,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2024-12-18T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-02-19T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2025-02-26T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2025-02-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 105,
+				"idKorreferent": 7,
+				"idReferent": 17,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "4.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bf0"
+	},
+	"anrede": null,
+	"vorname": "Anna",
+	"nachname": "Weiss",
+	"email": "anna.weiss@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7891234565,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 0,
+	"arbeiten": [
+		{
+			"titel": "Blockchain in der Logistik",
+			"idArbeit": 120,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2025-03-30T00:00:00Z"
+			},
+			"abgabeDatum": null,
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 120,
+				"idKorreferent": 11,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bf1"
+	},
+	"anrede": null,
+	"vorname": "Leo",
+	"nachname": "Kaiser",
+	"email": "leo.kaiser@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7894561230,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Machine Learning für Bilderkennung",
+			"idArbeit": 19,
+			"idStudiengang": 4,
+			"startDatum": {
+				"$date": "2021-07-30T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-10-11T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-10-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 19,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 4,
+				"titelNachAbschluss": "B.Eng. in Geodatenmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bf2"
+	},
+	"anrede": null,
+	"vorname": "Carlos",
+	"nachname": "Silva",
+	"email": "carlos.silva@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7894561232,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Cloud Computing in Brasilien",
+			"idArbeit": 44,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2023-01-25T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-05-18T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-06-02T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 44,
+				"idKorreferent": 25,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		},
+		{
+			"titel": "Cloud Computing in Brasilien",
+			"idArbeit": 73,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2023-08-30T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-12-21T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-02-20T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 73,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bf3"
+	},
+	"anrede": null,
+	"vorname": "Camila",
+	"nachname": "Ortiz",
+	"email": "camila.ortiz@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7894561233,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 0,
+	"arbeiten": [
+		{
+			"titel": "Smart Cities in Lateinamerika",
+			"idArbeit": 122,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2024-11-19T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-03-11T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2025-04-22T00:00:00Z"
+			},
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 122,
+				"idKorreferent": 12,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bf4"
+	},
+	"anrede": null,
+	"vorname": "Klara",
+	"nachname": "Fischer",
+	"email": "klara.fischer@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 7894561234,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Controlling in KMU",
+			"idArbeit": 115,
+			"idStudiengang": 47,
+			"startDatum": {
+				"$date": "2025-03-01T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-05-15T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-07-01T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 115,
+				"idKorreferent": 6,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 47,
+				"titelNachAbschluss": "B.A. in Betriebswirtschaftslehre"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bf5"
+	},
+	"anrede": null,
+	"vorname": "Simon",
+	"nachname": "Baumann",
+	"email": "simon.baumann@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 8529637410,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Kulturelle Einflüsse auf Marketing",
+			"idArbeit": 13,
+			"idStudiengang": 47,
+			"startDatum": {
+				"$date": "2021-06-01T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-10-21T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-10-29T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T17:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 13,
+				"idKorreferent": 9,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 47,
+				"titelNachAbschluss": "B.A. in Betriebswirtschaftslehre"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bf6"
+	},
+	"anrede": null,
+	"vorname": "Zeynep",
+	"nachname": "Ozturk",
+	"email": "zeynep.ozturk@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 8529637411,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Tanssilvanien als IT-Fachkräfteressource",
+			"idArbeit": 38,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2022-11-28T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-03-16T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-03-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T17:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 38,
+				"idKorreferent": 21,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		},
+		{
+			"titel": "Familienunternehmen in der Kurdistan",
+			"idArbeit": 68,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2023-07-11T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-09-27T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-11-01T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 68,
+				"idKorreferent": 9,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "4.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bf7"
+	},
+	"anrede": null,
+	"vorname": "Kofi",
+	"nachname": "Asante",
+	"email": "kofi.asante@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 8529637412,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Agribusiness in Ghana",
+			"idArbeit": 53,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2023-04-11T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-06-22T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-07-25T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 53,
+				"idKorreferent": 22,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		},
+		{
+			"titel": "Agribusiness in Ghana",
+			"idArbeit": 82,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2023-12-15T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-02-02T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2024-04-15T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2024-02-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 82,
+				"idKorreferent": 17,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bf8"
+	},
+	"anrede": null,
+	"vorname": "Burak",
+	"nachname": "Sahin",
+	"email": "burak.sahin@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 8529637413,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Einsatz von Drohnen in der Logistik",
+			"idArbeit": 97,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2024-08-20T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-10-02T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 97,
+				"idKorreferent": 25,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "5.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "5.0"
+				},
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bf9"
+	},
+	"anrede": null,
+	"vorname": "Amina",
+	"nachname": "Sow",
+	"email": "amina.sow@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 8529637414,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Solarenergie in Mali",
+			"idArbeit": 108,
+			"idStudiengang": 7,
+			"startDatum": {
+				"$date": "2025-01-15T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-03-19T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2025-03-21T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2025-03-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 108,
+				"idKorreferent": 2,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "4.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 1,
+				"idStudiengang": 7,
+				"titelNachAbschluss": "B.Eng. in Infrastruktur und Umwelt"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bfa"
+	},
+	"anrede": "Frau",
+	"vorname": "Sophia",
+	"nachname": "Weber",
+	"email": "sophia.weber@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 8642097531,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null,
+	"arbeiten": [
+		{
+			"titel": "Resilienz in globalen Lieferketten: Eine Fallstudie",
+			"idArbeit": 129,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2025-02-01T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-06-18T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-06-10T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T13:40:00Z"
+			},
+			"noten": {
+				"idArbeit": 129,
+				"idKorreferent": 13,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bfb"
+	},
+	"anrede": null,
+	"vorname": "Niklas",
+	"nachname": "Peters",
+	"email": "niklas.peters@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9517534862,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Automatisierung in der Logistik",
+			"idArbeit": 17,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2021-07-27T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-10-04T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-10-29T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 17,
+				"idKorreferent": 7,
+				"idReferent": 3,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bfc"
+	},
+	"anrede": null,
+	"vorname": "Min-seo",
+	"nachname": "Park",
+	"email": "minseo.park@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9517534863,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Ausbeutung und Eingliederung - Platform Work and Digital Colonialism",
+			"idArbeit": 42,
+			"idStudiengang": 79,
+			"startDatum": {
+				"$date": "2023-01-16T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-03-31T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-04-17T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 42,
+				"idKorreferent": 23,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.A.",
+				"idFachbereich": 4,
+				"idStudiengang": 79,
+				"titelNachAbschluss": "M.A. in Suchttherapie und Sozialmanagement in der Suchthilfe"
+			}
+		},
+		{
+			"titel": "Smart Contracts in der Logistik",
+			"idArbeit": 72,
+			"idStudiengang": 78,
+			"startDatum": {
+				"$date": "2023-07-26T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-09-27T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-10-13T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 72,
+				"idKorreferent": 12,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.A.",
+				"idFachbereich": 4,
+				"idStudiengang": 78,
+				"titelNachAbschluss": "M.A. in Psychosoziale Beratung und Recht"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bfd"
+	},
+	"anrede": null,
+	"vorname": "Juan",
+	"nachname": "Marinez",
+	"email": "juan.martinez@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9517534864,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Robotik in der Industrie",
+			"idArbeit": 57,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2023-05-09T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-07-24T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-08-25T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 57,
+				"idKorreferent": 2,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		},
+		{
+			"titel": "Robotik in der Pflege",
+			"idArbeit": 86,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2024-03-28T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-05-31T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-06-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:00:00Z"
+			},
+			"noten": {
+				"idArbeit": 86,
+				"idKorreferent": 19,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bfe"
+	},
+	"anrede": null,
+	"vorname": "Eun-ji",
+	"nachname": "Choi",
+	"email": "eunji.choi@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9517534865,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Blockchain für Wahlsysteme",
+			"idArbeit": 100,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2024-10-29T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-02-18T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2025-04-01T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2025-02-27T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 100,
+				"idKorreferent": 7,
+				"idReferent": 17,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "4.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2bff"
+	},
+	"anrede": null,
+	"vorname": "Sophie",
+	"nachname": "Hoffmann",
+	"email": "sophie.hoffmann@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9517534866,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Simulation von Lieferketten",
+			"idArbeit": 114,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2025-01-30T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-04-03T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-07-15T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 114,
+				"idKorreferent": 7,
+				"idReferent": 17,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2c00"
+	},
+	"anrede": null,
+	"vorname": "Emma",
+	"nachname": "Wagner",
+	"email": "emma.wagner@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9637418520,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Sicherheit in Cloud-Systemen",
+			"idArbeit": 14,
+			"idStudiengang": 46,
+			"startDatum": {
+				"$date": "2021-06-28T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-08-23T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-09-09T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 14,
+				"idKorreferent": 1,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 46,
+				"titelNachAbschluss": "M.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2c01"
+	},
+	"anrede": null,
+	"vorname": "Amir",
+	"nachname": "Hosseini",
+	"email": "amir.hosseini@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9637418521,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Entwicklung eines Chatbots",
+			"idArbeit": 39,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2022-12-20T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-02-21T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-03-13T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T14:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T15:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 39,
+				"idKorreferent": 22,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		},
+		{
+			"titel": "Entwicklung eines Chatbots",
+			"idArbeit": 69,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2023-07-11T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-09-27T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-10-06T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 69,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2c02"
+	},
+	"anrede": null,
+	"vorname": "Elif",
+	"nachname": "Demir",
+	"email": "elif.demir@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9637418522,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Sicherheit von Webanwendungen",
+			"idArbeit": 54,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2023-04-18T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-07-11T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-07-26T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T13:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T14:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 54,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "1.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		},
+		{
+			"titel": "Strategisches Controlling",
+			"idArbeit": 83,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2024-01-29T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-04-02T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2024-04-30T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T15:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T16:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 83,
+				"idKorreferent": 18,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2c03"
+	},
+	"anrede": null,
+	"vorname": "Leila",
+	"nachname": "Mohammadi",
+	"email": "leila.mohammadi@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9637418523,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Machine Learning in der Medizin",
+			"idArbeit": 2,
+			"idStudiengang": 46,
+			"startDatum": {
+				"$date": "2024-09-11T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-11-13T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": null,
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 2,
+				"idKorreferent": 7,
+				"idReferent": 2,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 46,
+				"titelNachAbschluss": "M.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2c04"
+	},
+	"anrede": null,
+	"vorname": "Deniz",
+	"nachname": "Koc",
+	"email": "deniz.koc@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9637418524,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Digital Twins in der Fertigung",
+			"idArbeit": 112,
+			"idStudiengang": 58,
+			"startDatum": {
+				"$date": "2025-01-22T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-04-08T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-07-15T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": null,
+			"kolloquiumEndeUhrzeit": null,
+			"noten": {
+				"idArbeit": 112,
+				"idKorreferent": 4,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 58,
+				"titelNachAbschluss": "M.Sc. in Global Logistics"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2c05"
+	},
+	"anrede": "Herr",
+	"vorname": "David",
+	"nachname": "Schmidt",
+	"email": "david.schmidt@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9753108642,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": null,
+	"arbeiten": [
+		{
+			"titel": "Additive Fertigungstechnologien in der Automobilindustrie",
+			"idArbeit": 127,
+			"idStudiengang": 29,
+			"startDatum": {
+				"$date": "2025-03-10T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-04-25T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-04-17T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:10:00Z"
+			},
+			"noten": {
+				"idArbeit": 127,
+				"idKorreferent": 5,
+				"idReferent": 14,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Eng.",
+				"idFachbereich": 2,
+				"idStudiengang": 29,
+				"titelNachAbschluss": "B.Eng. in Maschinenbau"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2c06"
+	},
+	"anrede": null,
+	"vorname": "Finn",
+	"nachname": "Otto",
+	"email": "finn.otto@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9873216540,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Finanzierung von Start-ups",
+			"idArbeit": 23,
+			"idStudiengang": 50,
+			"startDatum": {
+				"$date": "2021-12-01T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-02-02T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-03-04T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 23,
+				"idKorreferent": 7,
+				"idReferent": 17,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 50,
+				"titelNachAbschluss": "B.Sc. in Int. Finance"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2c07"
+	},
+	"anrede": null,
+	"vorname": "Max",
+	"nachname": "Myura",
+	"email": "max.mueller@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9876543210,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Entwicklung eines KI-Chatbots",
+			"idArbeit": 4,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2020-11-13T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2021-04-13T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2021-04-29T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 4,
+				"idKorreferent": 4,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		},
+		{
+			"titel": "Nachhaltige Geschäftsmodelle in der Kreislaufwirtschaft",
+			"idArbeit": 128,
+			"idStudiengang": 47,
+			"startDatum": {
+				"$date": "2025-02-15T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2025-06-10T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2025-06-02T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:45:00Z"
+			},
+			"noten": {
+				"idArbeit": 128,
+				"idKorreferent": 5,
+				"idReferent": 7,
+				"noteArbeitKorreferent": null,
+				"noteArbeitReferent": null,
+				"noteKolloquiumKorreferent": null,
+				"noteKolloquiumReferent": null
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.A.",
+				"idFachbereich": 3,
+				"idStudiengang": 47,
+				"titelNachAbschluss": "B.A. in Betriebswirtschaftslehre"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2c08"
+	},
+	"anrede": null,
+	"vorname": "Reza",
+	"nachname": "Karimi",
+	"email": "reza.karimi@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9876543211,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "KI-gestützte Bildverarbeitung",
+			"idArbeit": 29,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2022-02-15T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2022-05-03T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2022-06-10T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T10:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T11:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 29,
+				"idKorreferent": 16,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "3.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "3.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		},
+		{
+			"titel": "KI-gestützte Fahrradwege",
+			"idArbeit": 59,
+			"idStudiengang": 40,
+			"startDatum": {
+				"$date": "2023-05-17T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2023-07-17T00:00:00Z"
+			},
+			"endeKorrektur": null,
+			"kolloquiumDatum": {
+				"$date": "2023-07-26T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T11:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T12:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 59,
+				"idKorreferent": 7,
+				"idReferent": 14,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "B.Sc.",
+				"idFachbereich": 2,
+				"idStudiengang": 40,
+				"titelNachAbschluss": "B.Sc. in Wirtschaftsinformatik"
+			}
+		}
+	]
+},
+{
+	"_id": {
+		"$oid": "683c6ad088c654acfc0b2c09"
+	},
+	"anrede": null,
+	"vorname": "Sara",
+	"nachname": "Khan",
+	"email": "sara.khan@stud.uni.de",
+	"strasse": null,
+	"plz": null,
+	"ort": null,
+	"telefon": null,
+	"matrNr": 9876543212,
+	"hausNr": null,
+	"adrHinweis": null,
+	"scheinfreiJaNein": 1,
+	"arbeiten": [
+		{
+			"titel": "Einsatz von KI in der Bildung",
+			"idArbeit": 88,
+			"idStudiengang": 60,
+			"startDatum": {
+				"$date": "2024-04-19T00:00:00Z"
+			},
+			"abgabeDatum": {
+				"$date": "2024-04-18T00:00:00Z"
+			},
+			"endeKorrektur": {
+				"$date": "2024-06-13T00:00:00Z"
+			},
+			"kolloquiumDatum": {
+				"$date": "2024-06-12T00:00:00Z"
+			},
+			"kolloquiumBeginnUhrzeit": {
+				"$date": "1970-01-01T09:00:00Z"
+			},
+			"kolloquiumEndeUhrzeit": {
+				"$date": "1970-01-01T10:30:00Z"
+			},
+			"noten": {
+				"idArbeit": 88,
+				"idKorreferent": 28,
+				"idReferent": 7,
+				"noteArbeitKorreferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteArbeitReferent": {
+					"$numberDecimal": "1.0"
+				},
+				"noteKolloquiumKorreferent": {
+					"$numberDecimal": "2.0"
+				},
+				"noteKolloquiumReferent": {
+					"$numberDecimal": "2.0"
+				}
+			},
+			"studiengaenge": {
+				"artAbschluss": "M.Sc.",
+				"idFachbereich": 3,
+				"idStudiengang": 60,
+				"titelNachAbschluss": "M.Sc. in Strategisches Informationsmanagement"
+			}
+		}
+	]
+}]
+

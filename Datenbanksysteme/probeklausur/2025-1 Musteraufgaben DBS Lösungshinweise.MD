@@ -7,6 +7,7 @@ _Hinweis:_ Die Aufgabensammlung enthält Musterfragen, die in dieser Form auch i
 Datum: 02.06.2025
 
 ------------------------
+TODO: Lösungen löschen
 
 ## Aufgabe 1 - Einleitung
 
@@ -14,8 +15,6 @@ Datum: 02.06.2025
 2) Erläutern Sie drei Gründe, wieso Künstliche Intelligenz-Systeme erst in den letzten Jahren aufgekommen sind.  
 3) Nennen und beschreiben Sie je einen Vor- und einen Nachteil des Cloud Computings für die Gestaltung von IT-Infrastrukturen in Unternehmen.  
 4) Erläutern Sie, für welche Anwendungsfälle relationale Datenbanken geeignet sind und warum diese (nicht oder auf jeden Fall) in den nächsten Jahrzehnten in Unternehmen eingesetzt werden.  
-
-------------------------
 
 ## Aufgabe 2 - Business Intelligence
 
@@ -26,11 +25,11 @@ Measures, die die Anforderung der summarizability erfüllen, müssen Disjunkthei
 
 ### Ausfülltext  
 
-Kennzahlen in einem DWH basieren auf _____________-Tabellen.  
+Kennzahlen in einem DWH basieren auf **Fakten**-Tabellen.  
 
-Wenn ein OLAP-Würfel wenige Measures enthält, die mit Kombinationen von Dimensionswerten verbunden sind, ist der Würfel _______________ befüllt.  
+Wenn ein OLAP-Würfel wenige Measures enthält, die mit Kombinationen von Dimensionswerten verbunden sind, ist der Würfel **sparse / spärlich** befüllt.  
 
-Eine Dimensionsinstanz umfasst alle ________________ auf allen Ebenen einer Dimension.  
+Eine Dimensionsinstanz umfasst alle **Ausprägungen der Measures** auf allen Ebenen einer Dimension.  
 
 ### OLAP-Operationen
 
@@ -63,9 +62,11 @@ GROUP BY
     s.Region
 ORDER BY
     d.Jahr, d.Monat, p.Kategorie, s.Region;
-```  
+```
 
-------------------------
+Antwort:  
+DICE-Operation
+Das Ergebnis der Abfrage wäre ein Teilcube, der Ihnen den aggregierten Umsatz für jede Kombination aus den Monaten Januar, Februar, März 2024, den Produktkategorien Elektronik und Haushaltsgeräte, und den Regionen Nord und West anzeigt. Sie erhalten präzise Einblicke in dieses spezifische "Würfelstück" Ihrer Daten.  
 
 ## Aufgabe 3 - Optimierung von DBn und Verteilung
 
@@ -73,10 +74,10 @@ ORDER BY
 
 |  Beispiel | Wahr | Falsch |
 | -- | -- | -- |
-| Ein Query Execution Plan kann verwendet werden, um zu prüfen, ob durch das Setzen eines Indexes die Performance einer Abfrage erhöht werden kann |  | |
-| Bei einer Menge von vorher bekannten Werten, die ein Attribut aufnehmen kann, ist es aus Performance-Gründen sinnvoll, einen ENUM-Datentyp zu definieren. |  | |
-| Abfragen, die auf Ungleichheit prüfen (!=) sind deutlich schneller als Abfragen, die auf Gleichheit prüfen. | |  |
-| Spalten, die in Selektionskriterien verwendet werden, sollten i.d.R. indiziert werden, wenn die Performance nicht ausreicht. |  | |
+| Ein Query Execution Plan kann verwendet werden, um zu prüfen, ob durch das Setzen eines Indexes die Performance einer Abfrage erhöht werden kann | x | |
+| Bei einer Menge von vorher bekannten Werten, die ein Attribut aufnehmen kann, ist es aus Performance-Gründen sinnvoll, einen ENUM-Datentyp zu definieren. | x | |
+| Abfragen, die auf Ungleichheit prüfen (!=) sind deutlich schneller als Abfragen, die auf Gleichheit prüfen. | | x |
+| Spalten, die in Selektionskriterien verwendet werden, sollten i.d.R. indiziert werden, wenn die Performance nicht ausreicht. | x | |
 
 ### Optimierung
 
@@ -123,16 +124,12 @@ Tabelle: _Rechnungsposition_
 | R-2 | P-1 | Schnürsenkel | 2 | 3.00 |
 | R-2 | P-2 | Schuhcrème | 3 | 4.75 |
 
-------------------------
-
 ## Aufgabe 4 - NoSQL
 
 ### Dokumentorientierte Datenbanken
 
 1) Was verstehen Sie unter einem Dokument im Sinne einer dokumentorientierten DB? Inwieweit unterscheidet sich dies von einem herkömmlichen Dokument, z.B. einem Word-Dokument?  
 2) Das CAP-Theorem besagt, dass nur zwei der folgenden Eigenschaften durch eine Datenspeicherlösung umgesetzt werden können: Consistency, Availability, Partition Tolerance. Erläutern Sie die drei Eigenschaften.  
-
-------------------------
 
 ## Aufgabe 5 - Datenformate
 
@@ -141,7 +138,7 @@ Tabelle: _Rechnungsposition_
 
 ### YAML nach JSON - Transformationsaufgabe
 
-Formen Sie das folgende YAML-Dokument in ein JSON-Dokument um:
+Forme das folgende YAML-Dokument in ein JSON-Dokument um:
 
 ```YAML
 person:
@@ -165,7 +162,37 @@ musikalische_informationen:
       abschlussjahr: 2008 # Beispielhaftes Abschlussjahr
 ```
 
-------------------------
+```JSON
+{
+  "person": {
+    "name": {
+      "vorname": "Lang",
+      "nachname": "Lang"
+    },
+    "geburtsdatum": "1982-06-14",
+    "geburtsort": "Shenyang, China",
+    "nationalitaet": "Chinesisch",
+    "webseite": "https://www.langlang.com"
+  },
+  "musikalische_informationen": {
+    "instrumente": [
+      "Klavier"
+    ],
+    "ausbildung": [
+      {
+        "institution": "Zentrales Musikkonservatorium Peking",
+        "ort": "Peking, China",
+        "abschlussjahr": null
+      },
+      {
+        "institution": "Curtis Institute of Music",
+        "ort": "Philadelphia, USA",
+        "abschlussjahr": 2008
+      }
+    ]
+  }
+}
+```
 
 ## Aufgabe 6 - MongoDB
 
@@ -175,7 +202,7 @@ Laden Sie die beiden Dateien in die Collections:
 [studierende.json](studierende.json) und [referenten.json](referenten.json)  
 
 1) Wieviele Dokumente befinden sich nun in den Collections?
-2) Was machen die folgenden Abfragen:
+2) Was macht die folgende Abfrage:
 
 ```JSON
 --- Abfrage 1
@@ -207,8 +234,6 @@ db.referenten.updateOne(
 
 ```
 
-------------------------
-
 ## Aufgabe 7 - Graphen(datenbanken)
 
 1) Zeichnen Sie einen ungerichteten Graphen mit 4 Knoten und 5 Kanten.  
@@ -227,8 +252,6 @@ db.referenten.updateOne(
 * alle Schüler, die das Fach Englisch belegt haben.  
 * alle Schüler, die zwischen 16 und 18 Jahren alt sind.  
 
-------------------------
-
 ## Aufgabe 8 - verteilte Datenverarbeitung
 
 ![alt text](image-1.png)
@@ -243,17 +266,12 @@ Quelle: <https://www.informatica.com/blogs/adopt-a-kappa-architecture-for-stream
 
 Beschreiben Sie anhand der Vorlesung, um welche Art von System es sich hier handeln könnte.  
 
-------------------------
-
 ## Aufgabe 9 - Apache Hadoop
 
 ./.
-Denkbare Aufgaben: Map - Reduce, Fragen zu HDFS, Commons
-
-------------------------
 
 ## Aufgabe 10 - Datenintegration
 
-1) Beschreiben Sie, inwieweit Distribution, Autonomie und Heterogenität Herausforderungen für die Integration von separate vorliegenden Datenbeständen stellen können.
+1) Beschreiben Sie, inwieweit Distribution, Autonomie und Heterogenität Herausforderungen für die Integration von separate vorliegenden Datenbeständen stellen können. 
 2) Nennen Sie Integrationsprobleme auf der technischen Ebene, denen Sie z.B. während der Integrationsaufgabe im Kurs begegnen mussten.  
 3) Geben Sie ein Beispiel für Schema-Heterogenität.  

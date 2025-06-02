@@ -12,16 +12,43 @@ TODO: Lösungen löschen
 ## Aufgabe 1 - Einleitung
 
 1) Beschreiben Sie, inwieweit sich die Begriffe "Digitalisierung" und "Digitale Transformation" unterscheiden.  
+
+> **Digitalisierung**: Z.B. Umwandlung bestehender Dokumente in digitale Repräsentation, eher technische Betrachtung
+
+> **Digitale Transformation**: Automatisierung, Ersetzung von Systemen, tiefgreifender Transformationsprozess, der auf Digitalisierung basiert.
+
 2) Erläutern Sie drei Gründe, wieso Künstliche Intelligenz-Systeme erst in den letzten Jahren aufgekommen sind.  
+
+> Öffentliche Verfügbarkeit von großen Datenmengen, hoher Rechenleistungen (Cloud-Systemen), geeignete Programmieransätze, Investitionssummen gestiegen (öffentlich und private Investitionen)
+
 3) Nennen und beschreiben Sie je einen Vor- und einen Nachteil des Cloud Computings für die Gestaltung von IT-Infrastrukturen in Unternehmen.  
+
+> Vorteil des Cloud Computings: Rechenleistung kann nach Bedarf skaliert werden, Diense, z.B. für Datenanalysen, KI-Anwendungen können per pay-as-you-go gebucht werden. 
+
+> Nachteil: Bindung an Anbieter - Lock-In 
+
 4) Erläutern Sie, für welche Anwendungsfälle relationale Datenbanken geeignet sind und warum diese (nicht oder auf jeden Fall) in den nächsten Jahrzehnten in Unternehmen eingesetzt werden.  
+
+RDBS sehr gut für Speicherung von strukturierten Daten --> gibt es immer noch, daher wird es weiter eingesetzt. Dagegen: Cloud-Systeme bauen auch auf anderen Datenhaltungssystemen auf und werden die RDBS langfristig verdrängen.
+
 
 ## Aufgabe 2 - Business Intelligence
 
 1) Beschreiben Sie den Unterschied zwischen OLTP und OLAP-Systemen. Gehen Sie insbesondere auf die Einsatzzwecke der beiden Systemtypen ein.  
+
+OLTP: Transkationsverarbeitendes System (online transaction processing), sinngem. Produktionssysteme, die im täglichen Betrieb eingesetzt werden (Durchführung von Geschäftsprozessen)
+
+OLAP: Systeme für Analysen auf Datenbeständen, Analysen z.B. Produktgruppenanalysen (Umsätze, Deckungsbeiträge), Quartalszahlen ...
+
 2) Definieren Sie den Begriff "ROLAP".  
+
+ROLAP: Relational Online Analytical Processing - Star / Snowflake, OLAP auf relationalen Strukturen.
+
 3) Erläutern Sie folgenden Sachverhalt an einem Beispiel:
 Measures, die die Anforderung der summarizability erfüllen, müssen Disjunktheit der Instanzen aufweisen.
+
+Ein Produkt kann nicht zu 2 Kategorien gehören, andernfalls würde ein Produktverkauf ggf. 2mal in einer Aggregation berücksichtigt werden. 
+
 
 ### Ausfülltext  
 
@@ -66,7 +93,7 @@ ORDER BY
 
 Antwort:  
 DICE-Operation
-Das Ergebnis der Abfrage wäre ein Teilcube, der Ihnen den aggregierten Umsatz für jede Kombination aus den Monaten Januar, Februar, März 2024, den Produktkategorien Elektronik und Haushaltsgeräte, und den Regionen Nord und West anzeigt. Sie erhalten präzise Einblicke in dieses spezifische "Würfelstück" Ihrer Daten.  
+Das Ergebnis der Abfrage wäre ein Teilcube, der Ihnen den aggregierten Umsatz für jede Kombination aus den Monaten Januar, Februar, März 2024, den Produktkategorien Elektronik und Haushaltsgeräte, und den Regionen Nord und West anzeigt.
 
 ## Aufgabe 3 - Optimierung von DBn und Verteilung
 
@@ -84,6 +111,8 @@ Das Ergebnis der Abfrage wäre ein Teilcube, der Ihnen den aggregierten Umsatz f
 In der folgenden Abbildung finden Sie 4 Optimierungsregeln. Schildern Sie, in welchem Fall die 4. Regeln angewendet werden kann.  
 ![Optimierungsregeln](image.png)
 
+Nur möglich, wenn die Join-Attribute auch in der "Auswahl" vorkommen.
+
 ### Trigger
 
 ```SQL
@@ -99,7 +128,12 @@ END;
 
 Erklären Sie, welche Funktion dieser Trigger hat und was unter `NEW` und `OLD` zu verstehen ist.  
 
-### Stored Procedure
+Wenn Gehalt von MA aktualisiert, dann wir das alte Gehalte in salary_changes (old_salary) gespeichert.
+NEW: Neue Werte, die zur Ersetzung verwendet werden. 
+OLD: die alten Werte, vor Ersetzung
+
+
+### Stored Procedure (ZU HAUSE)
 
 Erstellen Sie eine Stored Procedure namens `berechneSumme`, die folgende Aufgabe ausführt:
 
@@ -129,12 +163,25 @@ Tabelle: _Rechnungsposition_
 ### Dokumentorientierte Datenbanken
 
 1) Was verstehen Sie unter einem Dokument im Sinne einer dokumentorientierten DB? Inwieweit unterscheidet sich dies von einem herkömmlichen Dokument, z.B. einem Word-Dokument?  
+
+Ein Dokument im Sinne einer Dokumenten-DB ist eine Dateninstanz, die einem Vokabular folgt, dass z.B. angibt, welche Tags im Dokument in welche Reihenfolge und Schachtelung verwendet werden dürfen. 
+
 2) Das CAP-Theorem besagt, dass nur zwei der folgenden Eigenschaften durch eine Datenspeicherlösung umgesetzt werden können: Consistency, Availability, Partition Tolerance. Erläutern Sie die drei Eigenschaften.  
+
+TODO!!!!
+
+Consistency: Daten sind über alle Knoten konsistent, egal auf welchem Knoten die Daten abgerufen werden und spiegeln alle Update-Operationen wieder. 
+Availability: 
+Partition Tolerance:
 
 ## Aufgabe 5 - Datenformate
 
 1) Erklären Sie, wozu XML aus geschäftlicher Sicht verwendet werden kann.  
+Z.B. für die Konfiguration von Anwendungen, Definition von Datenaustauschformaten (Nachrichtenformate für Rechnungen)
+
 2) XML-Dokumente können nach dem Parsen in einem DOM vorliegen. Was ist damit gemeint und wozu kann das DOM verwendet werden?
+
+DOM: Objektbaum / Document Object Model: interne Repräsentation eines Dokumentes als Baum, die dazu verwendet werden kann, Elemente zu ändern, neue einzufügen, oder zu löschen. 
 
 ### YAML nach JSON - Transformationsaufgabe
 
@@ -202,6 +249,9 @@ Laden Sie die beiden Dateien in die Collections:
 [studierende.json](studierende.json) und [referenten.json](referenten.json)  
 
 1) Wieviele Dokumente befinden sich nun in den Collections?
+
+TODO
+
 2) Was macht die folgende Abfrage:
 
 ```JSON
@@ -226,6 +276,8 @@ db.referenten.insertOne(
   }
 );
 
+Fügt ein JSON-Dokument für Frau Dr. Müller der Datenbank / collection hinzu.
+
 --- Abfrage 2
 db.referenten.updateOne(
   { "idReferent": 1 }, 
@@ -233,6 +285,10 @@ db.referenten.updateOne(
 );
 
 ```
+
+Setzt bei Person mit ID 1 den mittelname auf Kemal, wenn dieser noch nicht vorhanden, wird das Attribut außerdem angelegt. 
+
+AB HIER AM 16.6.25
 
 ## Aufgabe 7 - Graphen(datenbanken)
 
@@ -273,5 +329,8 @@ Beschreiben Sie anhand der Vorlesung, um welche Art von System es sich hier hand
 ## Aufgabe 10 - Datenintegration
 
 1) Beschreiben Sie, inwieweit Distribution, Autonomie und Heterogenität Herausforderungen für die Integration von separate vorliegenden Datenbeständen stellen können. 
+
 2) Nennen Sie Integrationsprobleme auf der technischen Ebene, denen Sie z.B. während der Integrationsaufgabe im Kurs begegnen mussten.  
+
 3) Geben Sie ein Beispiel für Schema-Heterogenität.  
+

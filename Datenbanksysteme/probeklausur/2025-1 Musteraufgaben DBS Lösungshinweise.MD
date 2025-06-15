@@ -13,8 +13,7 @@ TODO: Lösungen löschen
 
 1) Beschreiben Sie, inwieweit sich die Begriffe "Digitalisierung" und "Digitale Transformation" unterscheiden.  
 
-> **Digitalisierung**: Z.B. Umwandlung bestehender Dokumente in digitale Repräsentation, eher technische Betrachtung
-
+> **Digitalisierung**: Z.B. Umwandlung bestehender Dokumente in digitale Repräsentation, eher technische Betrachtung  
 > **Digitale Transformation**: Automatisierung, Ersetzung von Systemen, tiefgreifender Transformationsprozess, der auf Digitalisierung basiert.
 
 2) Erläutern Sie drei Gründe, wieso Künstliche Intelligenz-Systeme erst in den letzten Jahren aufgekommen sind.  
@@ -23,14 +22,12 @@ TODO: Lösungen löschen
 
 3) Nennen und beschreiben Sie je einen Vor- und einen Nachteil des Cloud Computings für die Gestaltung von IT-Infrastrukturen in Unternehmen.  
 
-> Vorteil des Cloud Computings: Rechenleistung kann nach Bedarf skaliert werden, Diense, z.B. für Datenanalysen, KI-Anwendungen können per pay-as-you-go gebucht werden. 
-
-> Nachteil: Bindung an Anbieter - Lock-In 
+> Vorteil des Cloud Computings: Rechenleistung kann nach Bedarf skaliert werden, Diense, z.B. für Datenanalysen, KI-Anwendungen können per pay-as-you-go gebucht werden.  
+> Nachteil: Bindung an Anbieter - Lock-In  
 
 4) Erläutern Sie, für welche Anwendungsfälle relationale Datenbanken geeignet sind und warum diese (nicht oder auf jeden Fall) in den nächsten Jahrzehnten in Unternehmen eingesetzt werden.  
 
 RDBS sehr gut für Speicherung von strukturierten Daten --> gibt es immer noch, daher wird es weiter eingesetzt. Dagegen: Cloud-Systeme bauen auch auf anderen Datenhaltungssystemen auf und werden die RDBS langfristig verdrängen.
-
 
 ## Aufgabe 2 - Business Intelligence
 
@@ -47,8 +44,7 @@ ROLAP: Relational Online Analytical Processing - Star / Snowflake, OLAP auf rela
 3) Erläutern Sie folgenden Sachverhalt an einem Beispiel:
 Measures, die die Anforderung der summarizability erfüllen, müssen Disjunktheit der Instanzen aufweisen.
 
-Ein Produkt kann nicht zu 2 Kategorien gehören, andernfalls würde ein Produktverkauf ggf. 2mal in einer Aggregation berücksichtigt werden. 
-
+Ein Produkt kann nicht zu 2 Kategorien gehören, andernfalls würde ein Produktverkauf ggf. 2mal in einer Aggregation berücksichtigt werden.  
 
 ### Ausfülltext  
 
@@ -132,7 +128,6 @@ Wenn Gehalt von MA aktualisiert, dann wir das alte Gehalte in salary_changes (ol
 NEW: Neue Werte, die zur Ersetzung verwendet werden. 
 OLD: die alten Werte, vor Ersetzung
 
-
 ### Stored Procedure (ZU HAUSE)
 
 Erstellen Sie eine Stored Procedure namens `berechneSumme`, die folgende Aufgabe ausführt:
@@ -168,10 +163,10 @@ Ein Dokument im Sinne einer Dokumenten-DB ist eine Dateninstanz, die einem Vokab
 
 2) Das CAP-Theorem besagt, dass nur zwei der folgenden Eigenschaften durch eine Datenspeicherlösung umgesetzt werden können: Consistency, Availability, Partition Tolerance. Erläutern Sie die drei Eigenschaften.  
 
-TODO!!!!
+> **Eigenarbeit**
 
-Consistency: Daten sind über alle Knoten konsistent, egal auf welchem Knoten die Daten abgerufen werden und spiegeln alle Update-Operationen wieder. 
-Availability: 
+Consistency: Daten sind über alle Knoten konsistent, egal auf welchem Knoten die Daten abgerufen werden und spiegeln alle Update-Operationen wieder.  
+Availability:  
 Partition Tolerance:
 
 ## Aufgabe 5 - Datenformate
@@ -293,7 +288,11 @@ AB HIER AM 16.6.25
 ## Aufgabe 7 - Graphen(datenbanken)
 
 1) Zeichnen Sie einen ungerichteten Graphen mit 4 Knoten und 5 Kanten.  
+![Diagramm](A7.1%20Diagramm.jpg)
 2) Beschreiben Sie einen Anwendungsfall, für den Graphendatenbanken wie Neo4J besser geeignet sind als relationale Datenbanken.  
+
+Analyse von Netzen, z.B. um Beziehungen zwischen Knoten zu finden. Relationale Datenbanken können Beziehungen nur über Joins darstellen.
+
 3) Erstellen Sie eine Neo4J-Datenbank mit folgender Spezifikation  
 
 * Es sollen die Schulfächer Mathematik, Englisch und Deutsch erfasst werden.  
@@ -302,11 +301,66 @@ AB HIER AM 16.6.25
 
 * Dumpen Sie die Datenbank und laden Sie diese auf den Stick. Der Name des Dumps muss Ihrem Nachnamen entsprechen.  
 
+```Cypher
+// 1. Alle vorhandenen Daten löschen (nur wenn es eine leere Datenbank sein soll)
+MATCH (n) DETACH DELETE n;
+
+// 2. Schulfächer erfassen
+CREATE (m:Fach {name: 'Mathematik'})
+CREATE (e:Fach {name: 'Englisch'})
+CREATE (d:Fach {name: 'Deutsch'});
+
+// 3. Schüler erfassen mit Vorname, Nachname und Alter
+CREATE (s1:Schueler {vorname: 'Lena', nachname: 'Meyer', alter: 16});
+CREATE (s2:Schueler {vorname: 'Max', nachname: 'Huber', alter: 17});
+CREATE (s3:Schueler {vorname: 'Mia', nachname: 'Schulz', alter: 18});
+CREATE (s4:Schueler {vorname: 'Tim', nachname: 'Wagner', alter: 16});
+
+// 4. Schüler Fächer belegen (verschiedene Kombinationen)
+MATCH (s1:Schueler {vorname: 'Lena'}), (m:Fach {name: 'Mathematik'}), (e:Fach {name: 'Englisch'})
+CREATE (s1)-[:BELEGT]->(m), (s1)-[:BELEGT]->(e);
+
+MATCH (s2:Schueler {vorname: 'Max'}), (e:Fach {name: 'Englisch'}), (d:Fach {name: 'Deutsch'})
+CREATE (s2)-[:BELEGT]->(e), (s2)-[:BELEGT]->(d);
+
+MATCH (s3:Schueler {vorname: 'Mia'}), (m:Fach {name: 'Mathematik'}), (d:Fach {name: 'Deutsch'})
+CREATE (s3)-[:BELEGT]->(m), (s3)-[:BELEGT]->(d);
+
+MATCH (s4:Schueler {vorname: 'Tim'}), (e:Fach {name: 'Englisch'}), (m:Fach {name: 'Mathematik'})
+CREATE (s4)-[:BELEGT]->(e), (s4)-[:BELEGT]->(m);
+
+
+// 5. Klausuren erfassen
+// Lena schreibt Mathe-Klausur am 4.6.2025
+MATCH (s:Schueler {vorname: 'Lena'}), (f:Fach {name: 'Mathematik'})
+CREATE (s)-[:SCHREIBT_KLAUSUR {fach: 'Mathematik', datum: date('2025-06-04')}]->(f);
+
+// Max schreibt Englisch-Klausur am 7.6.2025
+MATCH (s:Schueler {vorname: 'Max'}), (f:Fach {name: 'Englisch'})
+CREATE (s)-[:SCHREIBT_KLAUSUR {fach: 'Englisch', datum: date('2025-06-07')}]->(f);
+
+// Optional: Alle erstellten Knoten und Beziehungen anzeigen zur Kontrolle
+MATCH (n)-[r]->(m) RETURN n, r, m;
+MATCH (n) WHERE NOT (n)-[]-() RETURN n; // Zeigt Knoten ohne Beziehungen (hier die Fächer, wenn noch kein Schüler sie belegt)
+```
+
 4) Ermitteln Sie mit jeweils einer Abfrage  
 
 * alle Schüler, die Klausuren schreiben.
+
+`MATCH (s:Schueler)-[:SCHREIBT_KLAUSUR]->(:Fach)
+RETURN DISTINCT s.vorname, s.nachname`
+
 * alle Schüler, die das Fach Englisch belegt haben.  
-* alle Schüler, die zwischen 16 und 18 Jahren alt sind.  
+
+`MATCH (s:Schueler)-[:BELEGT]->(f:Fach {name: 'Englisch'})
+RETURN s.vorname, s.nachname`
+
+* alle Schüler, die zwischen 16 und 18 Jahren alt sind. 
+
+`MATCH (s:Schueler)
+WHERE s.alter >= 16 AND s.alter <= 18
+RETURN s.vorname, s.nachname, s.alter`
 
 ## Aufgabe 8 - verteilte Datenverarbeitung
 
@@ -328,9 +382,65 @@ Beschreiben Sie anhand der Vorlesung, um welche Art von System es sich hier hand
 
 ## Aufgabe 10 - Datenintegration
 
-1) Beschreiben Sie, inwieweit Distribution, Autonomie und Heterogenität Herausforderungen für die Integration von separate vorliegenden Datenbeständen stellen können. 
+1) Beschreiben Sie, inwieweit Distribution, Autonomie und Heterogenität Herausforderungen für die Integration von separat vorliegenden Datenbeständen stellen können.  
+
+* **Distribution** bezieht sich darauf, dass Daten nicht zentral an einem Ort liegen, sondern physisch (auf separaten Systemen) oder logisch (ein Datensatz auf mehreren Systemen verteilt) über ein Netzwerk verteilt sind.  
+  * **Netzwerkebene und Adressierbarkeit**:  physisch separate Netzwerkknoten müssen identifizierbar und ansprechbar sein müssen (z.B. über TCP/IP). Ansonsten keine Verbindung zu verteilten Datenquellen hergestellt werden.
+  * **Schemaverteilung und Abfragesprachen**: Daten sind oft in unterschiedlichen Schemata auf den Netzwerkknoten verteilt --> mehrere Query Languages für das Retrieval oder eine einzige, die mehrere Schemata beherrschen kann.  
+  * **Abfrageoptimierung**: muss u.a. die Netzwerklast berücksichtigen, da das Verschieben von Daten über das Netzwerk erhebliche Latenz verursachen kann.
+  * **Logische Verteilungsprobleme**: überlappende Daten können mit demselben Inhalt/Bedeutung existieren, was zu Redundanzen führt. 
+
+* **Autonomie** bedeutet, dass die einzelnen Datenquellen (z.B. von verschiedenen Teams) selbstständig über ihre Datenstrukturen und den Zugriff darauf entscheiden. Dies führt zu inhärenten Integrationsschwierigkeiten.
+  * Arten der Autonomie: Design, Interface, Access, Rechtliche Autonomie
+
+* **Heterogenität** entsteht oft aus der Autonomie und beschreibt die Vielfalt / Unterschiedlichkeit der Datenbestände.
+  * **Technische Heterogenität**: Probleme bei der technischen Umsetzung von Zugängen zu verschiedenen Systemen (z.B. unterschiedliche APIs, Treiber).
+  * **Syntaktische Heterogenität**: Dieselben Fakten werden unterschiedlich repräsentiert. Beispiele:
+Dezimalzeichen (Punkt/Komma), Währungssymbole (€/Euro)
+Trennzeichen (Comma-separated/Tab-separated)
+Zeichensätze (EBCDIC/ASCII/Unicode)
+Notendarstellung (A-F, "sehr gut", "gut")
+Diverse Datumsformate (12. September 2016; Sept 12, 2016; 16092016)
+Binary coding vs. characters
+  * **Data Model Heterogenität / Strukturelle Heterogenität**: Schemata, die dasselbe Objekt beschreiben, sind unterschiedlich aufgebaut.
+  * **Semantische Heterogenität**: Hier liegen die größten Herausforderungen. Elemente in verschiedenen Schemata mögen den gleichen Namen tragen, aber unterschiedliche Bedeutungen haben (Homonyme), oder unterschiedliche Namen dieselbe Bedeutung (Synonyme). Die Bedeutung eines Tabellen- oder Attributnamens kann variieren.
+
 
 2) Nennen Sie Integrationsprobleme auf der technischen Ebene, denen Sie z.B. während der Integrationsaufgabe im Kurs begegnen mussten.  
 
+Falsche Lokalisierung / Collation
+Falsche Feldlängen
+Unterschiedliche Benennungen (Heteronyme)
+
 3) Geben Sie ein Beispiel für Schema-Heterogenität.  
 
+
+* Marketing-Abteilung pflegt eine Datenbank für ihre E-Mail-Kampagnen und Kundenbindungsprogramme.
+* Vertriebs-Abteilung nutzt ein eigenes CRM-System (Customer Relationship Management) zur Verwaltung von Verkaufsaktivitäten und Kundenaufträgen.
+
+Marketing-Datenbank (vereinfacht):
+
+
+| Feldname	 | Datentyp	| Beschreibung |
+|--|--|--|
+|KundenID	| INT	| Eindeutige ID des Marketing-Kunden|
+|EMail	|VARCHAR(255)|E-Mail-Adresse für Kampagnen|
+|Vorname	|VARCHAR(100)	|Vorname des Kunden|
+|Nachname	|VARCHAR(100)	|Nachname des Kunden|
+|PLZ	|VARCHAR(10)	|Postleitzahl des Kunden für regionale Angebote|
+|Registrierungsdatum	|DATE	|Datum der ersten Registrierung|
+|OptInNewsletter	|BOOLEAN	|Hat der Kunde dem Newsletter zugestimmt?|
+
+Vertriebs-Datenbank (vereinfachte):
+
+| Feldname	 | Datentyp	| Beschreibung |
+|--|--|--|
+|CustomerID	|UUID	|Globale eindeutige ID des Kunden|
+|FirstName	|VARCHAR(100)	|Vorname|
+|LastName	|VARCHAR(100)	|Nachname|
+|Straße	|VARCHAR(200)	|Straße der Rechnungsadresse|
+|Hausnummer	|VARCHAR(10)	|Hausnummer der Rechnungsadresse|
+|Ort	|VARCHAR(100)	|Ort der Rechnungsadresse|
+|PLZ	|VARCHAR(10)	|Postleitzahl der Rechnungsadresse|
+|LandCode	|CHAR(2)	|ISO-Ländercode (z.B. DE, US)|
+|LetzterBestellwert	|DECIMAL(10,2)	|Summe des letzten getätigten Auftrags|

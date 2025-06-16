@@ -368,13 +368,23 @@ RETURN s.vorname, s.nachname, s.alter`
 Quelle: <https://www.informatica.com/blogs/adopt-a-kappa-architecture-for-streaming-and-ingesting-data.html>
 
 1) Beschreiben Sie die Aufgaben des Streaming Layers in der Kappa-Architektur anhand der obigen Grafik.
+
+* Erfassung, Verarbeitung und Speicherung von Live-Streaming-Daten in großer Menge
+* wird in der Regel mit einer Stream-Processing-Engine wie Apache Flink, Apache Storm, Apache Kinesis, Apache Kafka implementiert 
+* zuverlässiger Zugriff auf Abfrageergebnisse.
+Die Speed Layer in der Kappa-Architektur ist in zwei Hauptkomponenten unterteilt: die Ingestion Component und die Processing Component; hier nur die Processing Component
+
 2) Inwieweit unterscheidet sich die Kappa-Architektur von der Lambda-Architektur?
+
+Lambda enthält außerdem einen klassischen Verarbeitungsstream (Data at Rest) analog zu klass. BI-Lösung
 
 3) Die Firma Siddhi vertreibt ein System, das in folgender Abbildung architektonisch sehr abstrakt dargestellt ist.  
 
 ![alt text](image-2.png)
 
 Beschreiben Sie anhand der Vorlesung, um welche Art von System es sich hier handeln könnte.  
+
+Spark-System, links Quellen, Auswertung mit SQL, Lieferung an Datensenken (Sinks)
 
 ## Aufgabe 9 - Apache Hadoop
 

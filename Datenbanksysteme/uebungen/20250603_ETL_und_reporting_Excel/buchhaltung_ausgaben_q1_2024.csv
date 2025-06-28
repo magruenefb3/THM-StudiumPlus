@@ -1,0 +1,13 @@
+Datum;Beschreibung;Kategorie_Buchhaltung;Betrag_EUR
+01.01.2024;Miete Büro Jan;Miete;800.00
+05.01.2024;MS Office Abo;Software;120.00
+10.01.2024;Druckerpatronen;Bürobedarf;45.50
+15.01.2024;Bahnticket Kundenbesuch;Reisekosten;35.00
+01.02.2024;Miete Büro Feb;Miete;800.00
+07.02.2024;Cloud Speicher;Software;25.00
+12.02.2024;Kopierpapier;Bürobedarf;30.00
+20.02.2024;Taxi zum Flughafen;Reisekosten;50.00
+01.03.2024;Miete Büro Mrz;Miete;800.00
+03.03.2024;Meeting mit Klient XY;Bewirtung;75.00
+10.03.2024;Neue Maus;Bürobedarf;20.00
+18.03.2024;Fortbildung Online-Kurs;Fortbildung;150.00

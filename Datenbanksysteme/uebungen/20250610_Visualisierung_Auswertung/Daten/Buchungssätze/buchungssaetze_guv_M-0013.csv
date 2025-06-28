@@ -1,0 +1,46 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2024-02-24;1200;8200;2293,34;Ertrag;Dienstleistungsgebühren (Projekt Y48);M-0013
+2025-04-14;1200;8100;576,33;Ertrag;Warenlieferung an Firma ABC;M-0013
+2024-04-19;4200;1200;1337,15;Aufwand;Abführung Sozialabgaben und Lohnsteuer für April 2024;M-0013
+2024-10-27;4300;1200;1971,60;Aufwand;Mietzahlung für Büroräume, Fälligkeit 27.10.2024;M-0013
+2024-10-03;1200;8200;3774,93;Ertrag;Beratungsleistung für Kunde DEF;M-0013
+2024-07-30;4000;1200;2147,98;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0013
+2025-12-20;4600;1200;647,11;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Büromöbel);M-0013
+2024-01-04;1200;8300;4525,63;Ertrag;Zinsertrag aus Festgeldkonto;M-0013
+2024-06-30;1200;8200;165,18;Ertrag;Dienstleistungsgebühren (Projekt E34);M-0013
+2024-12-04;4300;1200;953,88;Aufwand;Mietzahlung für Büroräume, Fälligkeit 04.12.2024;M-0013
+2024-07-01;1200;8200;3278,55;Ertrag;Beratungsleistung für Kunde DEF;M-0013
+2024-05-11;4300;1200;1118,42;Aufwand;Mietzahlung für Büroräume, Fälligkeit 11.05.2024;M-0013
+2024-10-07;4500;1200;1082,47;Aufwand;Hotelkosten für Geschäftsreise;M-0013
+2025-04-27;4000;1200;3752,47;Aufwand;Einkauf Rohmaterial für Produktion;M-0013
+2025-06-01;1200;8200;3827,30;Ertrag;Beratungsleistung für Kunde DEF;M-0013
+2024-10-13;4300;1200;2896,23;Aufwand;Mietzahlung für Büroräume, Fälligkeit 13.10.2024;M-0013
+2024-10-26;4600;1200;851,31;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0013
+2024-08-16;1200;8100;214,75;Ertrag;Erlös aus Produkt X (Kunde 104);M-0013
+2024-04-06;1200;8200;479,64;Ertrag;Softwareentwicklung (Phase 3);M-0013
+2024-11-25;1200;8300;142,11;Ertrag;Zinsertrag aus Festgeldkonto;M-0013
+2024-01-13;1200;8200;4019,80;Ertrag;Beratungsleistung für Kunde DEF;M-0013
+2024-01-07;4000;1200;1427,47;Aufwand;Einkauf Rohmaterial für Produktion;M-0013
+2025-10-19;1200;8100;1485,63;Ertrag;Erlös aus Produkt X (Kunde 343);M-0013
+2024-12-14;4700;1200;3899,54;Aufwand;Werbekosten für Online-Kampagne;M-0013
+2025-09-29;4700;1200;1112,88;Aufwand;Telefon- und Internetkosten September;M-0013
+2025-03-29;1200;8100;2532,43;Ertrag;Warenlieferung an Firma ABC;M-0013
+2024-08-26;1200;8200;4840,90;Ertrag;Dienstleistungsgebühren (Projekt P35);M-0013
+2025-08-28;4100;1200;800,75;Aufwand;Gehaltszahlung an Mitarbeiter für August 2025;M-0013
+2024-01-28;4100;1200;3657,01;Aufwand;Gehaltszahlung an Mitarbeiter für January 2024;M-0013
+2024-01-02;1200;8100;1306,03;Ertrag;Warenlieferung an Firma ABC;M-0013
+2025-02-21;1200;8200;1987,13;Ertrag;Dienstleistungsgebühren (Projekt G31);M-0013
+2024-07-11;4500;1200;4284,45;Aufwand;Hotelkosten für Geschäftsreise;M-0013
+2025-06-10;4700;1200;3266,90;Aufwand;Telefon- und Internetkosten June;M-0013
+2024-08-28;1200;8300;3682,64;Ertrag;Zinsertrag aus Festgeldkonto;M-0013
+2024-11-30;4500;1200;1670,23;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0013
+2025-04-15;4400;1200;4682,56;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0013
+2024-04-15;4200;1200;4947,36;Aufwand;Abführung Sozialabgaben und Lohnsteuer für April 2024;M-0013
+2025-01-18;4300;1200;3347,85;Aufwand;Mietzahlung für Büroräume, Fälligkeit 18.01.2025;M-0013
+2025-02-12;1200;8100;274,79;Ertrag;Warenlieferung an Firma ABC;M-0013
+2025-04-03;4700;1200;515,47;Aufwand;Telefon- und Internetkosten April;M-0013
+2025-11-25;4300;1200;2353,80;Aufwand;Mietzahlung für Büroräume, Fälligkeit 25.11.2025;M-0013
+2024-07-28;4500;1200;4264,82;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0013
+2024-03-26;1200;8100;285,42;Ertrag;Verkauf von Waren (Rechnungsnr. 10913);M-0013
+2024-08-07;4300;1200;3045,54;Aufwand;Mietzahlung für Büroräume, Fälligkeit 07.08.2024;M-0013
+2024-08-01;4600;1200;1047,85;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0013

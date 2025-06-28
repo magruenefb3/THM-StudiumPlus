@@ -1,0 +1,35 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2025-10-12;4400;1200;4101,43;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0014
+2024-07-25;4500;1200;4872,37;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0014
+2025-06-22;1200;8200;1139,98;Ertrag;Beratungsleistung für Kunde DEF;M-0014
+2024-09-22;4600;1200;2047,47;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0014
+2024-01-24;1200;8200;3653,36;Ertrag;Dienstleistungsgebühren (Projekt U86);M-0014
+2024-06-14;4400;1200;2015,69;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0014
+2024-07-01;1200;8200;137,54;Ertrag;Dienstleistungsgebühren (Projekt N40);M-0014
+2025-06-27;1200;8100;1953,51;Ertrag;Erlös aus Produkt X (Kunde 716);M-0014
+2024-03-22;1200;8100;2057,30;Ertrag;Warenlieferung an Firma ABC;M-0014
+2024-10-04;1200;8100;3476,23;Ertrag;Erlös aus Produkt X (Kunde 343);M-0014
+2024-02-04;4200;1200;1539,24;Aufwand;Abführung Sozialabgaben und Lohnsteuer für February 2024;M-0014
+2024-02-09;4600;1200;3906,19;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Büromöbel);M-0014
+2025-07-09;4300;1200;4842,23;Aufwand;Mietzahlung für Büroräume, Fälligkeit 09.07.2025;M-0014
+2025-04-11;4300;1200;3045,33;Aufwand;Mietzahlung für Büroräume, Fälligkeit 11.04.2025;M-0014
+2024-01-02;4100;1200;3792,84;Aufwand;Gehaltszahlung an Mitarbeiter für January 2024;M-0014
+2025-03-09;4100;1200;4858,93;Aufwand;Gehaltszahlung an Mitarbeiter für March 2025;M-0014
+2025-01-05;1200;8200;3928,73;Ertrag;Softwareentwicklung (Phase 3);M-0014
+2025-02-22;1200;8200;4553,77;Ertrag;Beratungsleistung für Kunde DEF;M-0014
+2025-01-19;1200;8200;2919,87;Ertrag;Dienstleistungsgebühren (Projekt U84);M-0014
+2024-02-11;4100;1200;3892,28;Aufwand;Gehaltszahlung an Mitarbeiter für February 2024;M-0014
+2025-06-24;1200;8200;1069,00;Ertrag;Softwareentwicklung (Phase 3);M-0014
+2024-12-04;4100;1200;2048,45;Aufwand;Gehaltszahlung an Mitarbeiter für December 2024;M-0014
+2024-05-25;4100;1200;76,13;Aufwand;Gehaltszahlung an Mitarbeiter für May 2024;M-0014
+2025-09-18;1200;8100;1939,83;Ertrag;Warenlieferung an Firma ABC;M-0014
+2024-09-22;4300;1200;3706,01;Aufwand;Mietzahlung für Büroräume, Fälligkeit 22.09.2024;M-0014
+2025-05-24;1200;8200;389,88;Ertrag;Beratungsleistung für Kunde DEF;M-0014
+2024-03-06;1200;8300;205,84;Ertrag;Mieteinahmen Nebengebäude;M-0014
+2024-08-21;4700;1200;2175,70;Aufwand;Telefon- und Internetkosten August;M-0014
+2024-01-28;1200;8100;1774,64;Ertrag;Verkauf von Waren (Rechnungsnr. 79739);M-0014
+2024-12-03;1200;8100;3799,98;Ertrag;Erlös aus Produkt X (Kunde 793);M-0014
+2024-06-23;4400;1200;1521,85;Aufwand;Kauf Briefmarken und Umschläge;M-0014
+2025-04-04;1200;8100;3215,42;Ertrag;Verkauf von Waren (Rechnungsnr. 53884);M-0014
+2025-05-09;4500;1200;1184,52;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0014
+2024-09-15;4000;1200;3774,56;Aufwand;Einkauf Rohmaterial für Produktion;M-0014

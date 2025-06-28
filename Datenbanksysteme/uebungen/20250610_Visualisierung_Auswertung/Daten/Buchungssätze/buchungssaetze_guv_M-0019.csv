@@ -1,0 +1,35 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2024-05-12;4600;1200;1031,34;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Büromöbel);M-0019
+2024-08-15;1200;8300;1592,68;Ertrag;Zinsertrag aus Festgeldkonto;M-0019
+2025-10-14;4600;1200;218,65;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0019
+2025-02-14;4700;1200;1975,26;Aufwand;Reparatur Bürostuhl;M-0019
+2025-11-01;1200;8200;2260,86;Ertrag;Dienstleistungsgebühren (Projekt B88);M-0019
+2025-02-19;1200;8300;4017,74;Ertrag;Mieteinahmen Nebengebäude;M-0019
+2024-05-30;4100;1200;3812,86;Aufwand;Gehaltszahlung an Mitarbeiter für May 2024;M-0019
+2025-02-09;4300;1200;4263,72;Aufwand;Mietzahlung für Büroräume, Fälligkeit 09.02.2025;M-0019
+2025-08-21;1200;8100;1736,13;Ertrag;Warenlieferung an Firma ABC;M-0019
+2024-07-22;1200;8200;2482,64;Ertrag;Beratungsleistung für Kunde DEF;M-0019
+2025-07-14;1200;8100;910,54;Ertrag;Verkauf von Waren (Rechnungsnr. 16193);M-0019
+2024-10-01;1200;8300;99,51;Ertrag;Mieteinahmen Nebengebäude;M-0019
+2025-10-27;4400;1200;1652,82;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0019
+2024-10-04;4000;1200;1551,47;Aufwand;Einkauf Rohmaterial für Produktion;M-0019
+2024-08-05;4500;1200;1431,35;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0019
+2025-10-02;4700;1200;543,64;Aufwand;Reparatur Bürostuhl;M-0019
+2024-08-20;4100;1200;3657,78;Aufwand;Gehaltszahlung an Mitarbeiter für August 2024;M-0019
+2024-09-20;4400;1200;4529,16;Aufwand;Kosten für Druckerpatronen;M-0019
+2024-01-29;4500;1200;873,15;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0019
+2025-04-17;1200;8300;2176,73;Ertrag;Mieteinahmen Nebengebäude;M-0019
+2024-06-17;1200;8300;1626,40;Ertrag;Zinsertrag aus Festgeldkonto;M-0019
+2024-02-20;4500;1200;3900,22;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0019
+2025-04-22;1200;8300;1790,25;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0019
+2024-11-23;4200;1200;383,95;Aufwand;Abführung Sozialabgaben und Lohnsteuer für November 2024;M-0019
+2025-11-23;1200;8100;4274,93;Ertrag;Warenlieferung an Firma ABC;M-0019
+2025-10-07;4200;1200;1311,56;Aufwand;Abführung Sozialabgaben und Lohnsteuer für October 2025;M-0019
+2024-11-11;4400;1200;1164,48;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0019
+2025-04-23;1200;8100;1944,59;Ertrag;Warenlieferung an Firma ABC;M-0019
+2025-03-31;1200;8200;4885,35;Ertrag;Dienstleistungsgebühren (Projekt G44);M-0019
+2024-03-17;1200;8100;1230,47;Ertrag;Erlös aus Produkt X (Kunde 288);M-0019
+2024-08-03;1200;8300;1323,62;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0019
+2025-03-25;1200;8200;1449,07;Ertrag;Softwareentwicklung (Phase 2);M-0019
+2024-04-14;1200;8200;3677,71;Ertrag;Softwareentwicklung (Phase 2);M-0019
+2025-01-24;4500;1200;2422,91;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0019

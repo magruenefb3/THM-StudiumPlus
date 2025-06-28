@@ -1,0 +1,21 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2024-06-07;4100;1200;1548,09;Aufwand;Gehaltszahlung an Mitarbeiter für June 2024;M-0003
+2025-07-21;1200;8300;4272,68;Ertrag;Mieteinahmen Nebengebäude;M-0003
+2024-04-06;1200;8200;896,69;Ertrag;Beratungsleistung für Kunde DEF;M-0003
+2024-08-08;1200;8300;3133,95;Ertrag;Zinsertrag aus Festgeldkonto;M-0003
+2025-03-05;1200;8200;4435,71;Ertrag;Dienstleistungsgebühren (Projekt M30);M-0003
+2024-04-26;1200;8300;2343,12;Ertrag;Zinsertrag aus Festgeldkonto;M-0003
+2024-03-16;1200;8300;4568,54;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0003
+2025-12-10;4600;1200;1271,59;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0003
+2025-10-01;1200;8100;4751,10;Ertrag;Verkauf von Waren (Rechnungsnr. 74464);M-0003
+2025-12-29;4700;1200;512,41;Aufwand;Telefon- und Internetkosten December;M-0003
+2025-04-18;1200;8200;291,62;Ertrag;Beratungsleistung für Kunde DEF;M-0003
+2024-09-27;4400;1200;451,25;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0003
+2025-04-29;1200;8200;1039,66;Ertrag;Beratungsleistung für Kunde DEF;M-0003
+2025-05-21;4000;1200;1868,92;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0003
+2025-11-29;4100;1200;3081,25;Aufwand;Gehaltszahlung an Mitarbeiter für November 2025;M-0003
+2025-01-27;1200;8300;1833,40;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0003
+2024-08-08;1200;8100;4294,17;Ertrag;Erlös aus Produkt X (Kunde 781);M-0003
+2024-05-30;1200;8200;2634,80;Ertrag;Beratungsleistung für Kunde DEF;M-0003
+2025-11-13;1200;8300;4137,34;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0003
+2025-08-11;4500;1200;2214,48;Aufwand;Hotelkosten für Geschäftsreise;M-0003

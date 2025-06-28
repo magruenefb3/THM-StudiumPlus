@@ -1,0 +1,64 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2025-06-28;4700;1200;1397,46;Aufwand;Reparatur Bürostuhl;M-0012
+2024-07-09;1200;8100;3322,92;Ertrag;Verkauf von Waren (Rechnungsnr. 91344);M-0012
+2025-11-09;1200;8300;1380,25;Ertrag;Mieteinahmen Nebengebäude;M-0012
+2025-02-02;1200;8100;3415,59;Ertrag;Verkauf von Waren (Rechnungsnr. 48796);M-0012
+2025-09-22;1200;8100;4601,77;Ertrag;Verkauf von Waren (Rechnungsnr. 83179);M-0012
+2025-10-04;1200;8200;1081,97;Ertrag;Softwareentwicklung (Phase 1);M-0012
+2024-07-30;1200;8100;4215,72;Ertrag;Verkauf von Waren (Rechnungsnr. 99400);M-0012
+2025-03-13;4300;1200;2612,45;Aufwand;Mietzahlung für Büroräume, Fälligkeit 13.03.2025;M-0012
+2024-12-01;1200;8100;270,65;Ertrag;Erlös aus Produkt X (Kunde 985);M-0012
+2025-11-25;1200;8200;4513,42;Ertrag;Softwareentwicklung (Phase 1);M-0012
+2024-08-13;4100;1200;4412,84;Aufwand;Gehaltszahlung an Mitarbeiter für August 2024;M-0012
+2025-01-12;1200;8200;2871,87;Ertrag;Softwareentwicklung (Phase 3);M-0012
+2025-10-11;1200;8200;3552,01;Ertrag;Beratungsleistung für Kunde DEF;M-0012
+2025-11-06;1200;8100;4946,20;Ertrag;Verkauf von Waren (Rechnungsnr. 40572);M-0012
+2025-07-12;1200;8200;2861,78;Ertrag;Softwareentwicklung (Phase 1);M-0012
+2024-04-29;4600;1200;3960,98;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Büromöbel);M-0012
+2025-04-20;4700;1200;1327,31;Aufwand;Telefon- und Internetkosten April;M-0012
+2024-04-15;4000;1200;3155,43;Aufwand;Kosten für Handelswaren;M-0012
+2025-11-04;1200;8100;3048,79;Ertrag;Verkauf von Waren (Rechnungsnr. 98473);M-0012
+2025-05-08;1200;8300;522,64;Ertrag;Zinsertrag aus Festgeldkonto;M-0012
+2024-08-02;4200;1200;862,26;Aufwand;Abführung Sozialabgaben und Lohnsteuer für August 2024;M-0012
+2025-07-20;4000;1200;4088,61;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0012
+2025-05-10;1200;8300;4497,76;Ertrag;Zinsertrag aus Festgeldkonto;M-0012
+2025-03-01;1200;8200;4028,26;Ertrag;Softwareentwicklung (Phase 3);M-0012
+2025-06-17;4600;1200;1426,30;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0012
+2024-04-07;1200;8300;4135,37;Ertrag;Zinsertrag aus Festgeldkonto;M-0012
+2024-09-24;1200;8200;4674,42;Ertrag;Beratungsleistung für Kunde DEF;M-0012
+2024-05-24;4500;1200;130,38;Aufwand;Hotelkosten für Geschäftsreise;M-0012
+2025-11-28;4600;1200;488,49;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0012
+2024-09-23;1200;8200;4139,41;Ertrag;Beratungsleistung für Kunde DEF;M-0012
+2025-07-15;4100;1200;1053,82;Aufwand;Gehaltszahlung an Mitarbeiter für July 2025;M-0012
+2025-08-04;4400;1200;1455,63;Aufwand;Kauf Briefmarken und Umschläge;M-0012
+2025-06-03;4600;1200;2025,67;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Büromöbel);M-0012
+2024-11-28;4000;1200;4018,79;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0012
+2024-07-14;1200;8300;4262,94;Ertrag;Zinsertrag aus Festgeldkonto;M-0012
+2025-08-31;1200;8300;2363,46;Ertrag;Zinsertrag aus Festgeldkonto;M-0012
+2025-03-17;4300;1200;4300,20;Aufwand;Mietzahlung für Büroräume, Fälligkeit 17.03.2025;M-0012
+2024-08-08;4600;1200;399,23;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0012
+2025-10-05;1200;8200;529,13;Ertrag;Dienstleistungsgebühren (Projekt F96);M-0012
+2024-10-06;4600;1200;3531,99;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Büromöbel);M-0012
+2024-11-22;4400;1200;2881,89;Aufwand;Kosten für Druckerpatronen;M-0012
+2025-05-12;4400;1200;196,07;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0012
+2024-03-20;1200;8200;1744,04;Ertrag;Softwareentwicklung (Phase 3);M-0012
+2024-07-01;4500;1200;4823,47;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0012
+2024-08-17;4300;1200;1593,67;Aufwand;Mietzahlung für Büroräume, Fälligkeit 17.08.2024;M-0012
+2024-06-03;4200;1200;3684,44;Aufwand;Abführung Sozialabgaben und Lohnsteuer für June 2024;M-0012
+2024-03-10;1200;8300;3012,38;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0012
+2025-12-23;1200;8200;403,97;Ertrag;Softwareentwicklung (Phase 1);M-0012
+2024-10-10;1200;8300;2446,16;Ertrag;Mieteinahmen Nebengebäude;M-0012
+2024-08-06;1200;8100;3882,38;Ertrag;Warenlieferung an Firma ABC;M-0012
+2024-09-27;4400;1200;1285,36;Aufwand;Kosten für Druckerpatronen;M-0012
+2024-12-07;1200;8100;4192,48;Ertrag;Erlös aus Produkt X (Kunde 558);M-0012
+2025-05-08;1200;8300;713,19;Ertrag;Mieteinahmen Nebengebäude;M-0012
+2024-09-25;1200;8200;3897,10;Ertrag;Dienstleistungsgebühren (Projekt L24);M-0012
+2025-02-23;4400;1200;2322,11;Aufwand;Kauf Briefmarken und Umschläge;M-0012
+2025-11-24;4500;1200;511,82;Aufwand;Hotelkosten für Geschäftsreise;M-0012
+2024-12-10;4100;1200;2787,82;Aufwand;Gehaltszahlung an Mitarbeiter für December 2024;M-0012
+2024-01-02;1200;8300;3733,98;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0012
+2024-10-16;4200;1200;1771,20;Aufwand;Abführung Sozialabgaben und Lohnsteuer für October 2024;M-0012
+2024-07-16;4200;1200;933,89;Aufwand;Abführung Sozialabgaben und Lohnsteuer für July 2024;M-0012
+2024-02-22;1200;8100;176,97;Ertrag;Erlös aus Produkt X (Kunde 405);M-0012
+2024-03-26;4000;1200;2558,89;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0012
+2025-02-11;1200;8300;4637,11;Ertrag;Mieteinahmen Nebengebäude;M-0012

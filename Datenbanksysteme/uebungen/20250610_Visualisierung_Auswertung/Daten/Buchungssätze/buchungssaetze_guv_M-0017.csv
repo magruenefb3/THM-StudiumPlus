@@ -1,0 +1,12 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2025-02-21;1200;8200;3977,63;Ertrag;Softwareentwicklung (Phase 1);M-0017
+2025-08-24;4100;1200;2950,72;Aufwand;Gehaltszahlung an Mitarbeiter für August 2025;M-0017
+2025-11-09;4400;1200;4353,75;Aufwand;Kosten für Druckerpatronen;M-0017
+2025-02-12;4400;1200;4979,97;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0017
+2024-10-15;4600;1200;4261,10;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Büromöbel);M-0017
+2024-04-28;4400;1200;3816,64;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0017
+2025-11-25;4000;1200;1239,18;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0017
+2024-08-18;1200;8300;4041,77;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0017
+2024-07-07;4400;1200;1495,42;Aufwand;Kauf Briefmarken und Umschläge;M-0017
+2025-09-07;4500;1200;2550,04;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0017
+2025-04-18;4600;1200;3241,91;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0017

@@ -1,0 +1,6 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2025-11-25;4600;1200;3388,93;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0018
+2024-07-08;1200;8200;3720,91;Ertrag;Beratungsleistung für Kunde DEF;M-0018
+2025-07-15;1200;8100;2647,45;Ertrag;Warenlieferung an Firma ABC;M-0018
+2024-11-26;4200;1200;80,40;Aufwand;Abführung Sozialabgaben und Lohnsteuer für November 2024;M-0018
+2024-08-02;4700;1200;1605,88;Aufwand;Werbekosten für Online-Kampagne;M-0018

@@ -1,0 +1,18 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2025-03-26;4200;1200;525,35;Aufwand;Abführung Sozialabgaben und Lohnsteuer für March 2025;M-0005
+2024-05-08;4200;1200;2693,80;Aufwand;Abführung Sozialabgaben und Lohnsteuer für May 2024;M-0005
+2025-09-22;1200;8100;2071,33;Ertrag;Warenlieferung an Firma ABC;M-0005
+2025-10-07;1200;8200;3919,89;Ertrag;Dienstleistungsgebühren (Projekt B15);M-0005
+2024-08-03;4100;1200;2874,43;Aufwand;Gehaltszahlung an Mitarbeiter für August 2024;M-0005
+2025-03-04;1200;8300;949,18;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0005
+2025-10-30;1200;8200;2684,86;Ertrag;Softwareentwicklung (Phase 1);M-0005
+2024-12-13;1200;8100;1006,05;Ertrag;Warenlieferung an Firma ABC;M-0005
+2024-08-28;4100;1200;3658,23;Aufwand;Gehaltszahlung an Mitarbeiter für August 2024;M-0005
+2024-12-24;4400;1200;1989,57;Aufwand;Kauf Briefmarken und Umschläge;M-0005
+2025-04-12;1200;8100;1855,35;Ertrag;Verkauf von Waren (Rechnungsnr. 47012);M-0005
+2024-05-25;4100;1200;3137,54;Aufwand;Gehaltszahlung an Mitarbeiter für May 2024;M-0005
+2024-03-03;4300;1200;2593,33;Aufwand;Mietzahlung für Büroräume, Fälligkeit 03.03.2024;M-0005
+2024-01-11;4000;1200;2206,36;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0005
+2024-11-30;4500;1200;149,66;Aufwand;Hotelkosten für Geschäftsreise;M-0005
+2025-12-24;4600;1200;172,05;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Büromöbel);M-0005
+2024-11-19;4000;1200;1928,29;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0005

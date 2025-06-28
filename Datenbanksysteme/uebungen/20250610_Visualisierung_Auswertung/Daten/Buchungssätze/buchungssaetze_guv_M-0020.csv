@@ -1,0 +1,34 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2025-10-25;4000;1200;354,91;Aufwand;Kosten für Handelswaren;M-0020
+2024-06-08;1200;8100;4662,70;Ertrag;Verkauf von Waren (Rechnungsnr. 56368);M-0020
+2025-08-04;4500;1200;3943,05;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0020
+2024-01-02;4500;1200;4567,51;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0020
+2025-10-13;1200;8100;1392,78;Ertrag;Verkauf von Waren (Rechnungsnr. 85318);M-0020
+2025-04-24;1200;8100;1924,00;Ertrag;Erlös aus Produkt X (Kunde 170);M-0020
+2024-04-03;4000;1200;672,87;Aufwand;Kosten für Handelswaren;M-0020
+2024-11-24;4500;1200;3277,17;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0020
+2025-10-10;1200;8100;3930,45;Ertrag;Erlös aus Produkt X (Kunde 126);M-0020
+2025-06-27;4400;1200;1579,78;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0020
+2025-05-28;4200;1200;2051,69;Aufwand;Abführung Sozialabgaben und Lohnsteuer für May 2025;M-0020
+2025-07-19;4400;1200;84,28;Aufwand;Kauf Briefmarken und Umschläge;M-0020
+2025-01-06;4100;1200;2220,43;Aufwand;Gehaltszahlung an Mitarbeiter für January 2025;M-0020
+2024-06-07;4400;1200;961,10;Aufwand;Kauf Briefmarken und Umschläge;M-0020
+2024-04-10;4500;1200;3936,65;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0020
+2025-09-07;4500;1200;2081,79;Aufwand;Hotelkosten für Geschäftsreise;M-0020
+2024-07-05;4600;1200;4201,26;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0020
+2024-01-25;1200;8300;3024,46;Ertrag;Mieteinahmen Nebengebäude;M-0020
+2025-08-01;1200;8100;1398,38;Ertrag;Erlös aus Produkt X (Kunde 267);M-0020
+2024-02-10;4400;1200;3282,52;Aufwand;Kauf Briefmarken und Umschläge;M-0020
+2024-03-29;1200;8200;1814,26;Ertrag;Softwareentwicklung (Phase 1);M-0020
+2025-08-23;1200;8100;2446,81;Ertrag;Erlös aus Produkt X (Kunde 975);M-0020
+2025-12-08;1200;8300;2303,16;Ertrag;Zinsertrag aus Festgeldkonto;M-0020
+2024-02-12;4600;1200;515,64;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0020
+2025-02-25;4100;1200;1862,93;Aufwand;Gehaltszahlung an Mitarbeiter für February 2025;M-0020
+2024-11-13;1200;8300;2483,83;Ertrag;Mieteinahmen Nebengebäude;M-0020
+2025-07-20;1200;8100;2153,57;Ertrag;Erlös aus Produkt X (Kunde 569);M-0020
+2024-08-11;4700;1200;572,26;Aufwand;Telefon- und Internetkosten August;M-0020
+2025-01-12;4100;1200;638,06;Aufwand;Gehaltszahlung an Mitarbeiter für January 2025;M-0020
+2024-12-19;4200;1200;3003,12;Aufwand;Abführung Sozialabgaben und Lohnsteuer für December 2024;M-0020
+2024-05-17;1200;8100;3405,95;Ertrag;Erlös aus Produkt X (Kunde 176);M-0020
+2024-02-13;4400;1200;3877,85;Aufwand;Kosten für Druckerpatronen;M-0020
+2024-02-05;1200;8100;3335,79;Ertrag;Warenlieferung an Firma ABC;M-0020

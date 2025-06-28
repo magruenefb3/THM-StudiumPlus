@@ -1,0 +1,54 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2025-05-08;4600;1200;686,03;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0016
+2025-11-29;1200;8200;4484,51;Ertrag;Beratungsleistung für Kunde DEF;M-0016
+2025-01-13;4600;1200;3762,10;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0016
+2024-10-22;4700;1200;2773,82;Aufwand;Telefon- und Internetkosten October;M-0016
+2024-09-03;1200;8100;3984,38;Ertrag;Erlös aus Produkt X (Kunde 255);M-0016
+2025-05-26;4400;1200;2175,42;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0016
+2024-01-29;4400;1200;548,83;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0016
+2024-06-07;4600;1200;4846,56;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0016
+2025-12-23;1200;8200;1056,84;Ertrag;Dienstleistungsgebühren (Projekt R14);M-0016
+2024-02-24;4700;1200;972,53;Aufwand;Werbekosten für Online-Kampagne;M-0016
+2024-11-01;1200;8200;825,43;Ertrag;Softwareentwicklung (Phase 1);M-0016
+2025-01-08;4300;1200;1537,95;Aufwand;Mietzahlung für Büroräume, Fälligkeit 08.01.2025;M-0016
+2024-08-05;4100;1200;976,62;Aufwand;Gehaltszahlung an Mitarbeiter für August 2024;M-0016
+2025-05-07;4200;1200;273,50;Aufwand;Abführung Sozialabgaben und Lohnsteuer für May 2025;M-0016
+2025-04-29;1200;8300;2823,22;Ertrag;Mieteinahmen Nebengebäude;M-0016
+2024-11-27;1200;8200;455,08;Ertrag;Softwareentwicklung (Phase 1);M-0016
+2024-07-08;4200;1200;3482,51;Aufwand;Abführung Sozialabgaben und Lohnsteuer für July 2024;M-0016
+2024-11-04;1200;8100;1747,26;Ertrag;Verkauf von Waren (Rechnungsnr. 24376);M-0016
+2025-01-11;4500;1200;3639,72;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0016
+2024-04-25;1200;8300;2198,90;Ertrag;Zinsertrag aus Festgeldkonto;M-0016
+2025-07-19;4400;1200;416,36;Aufwand;Kosten für Druckerpatronen;M-0016
+2024-04-26;1200;8200;3770,50;Ertrag;Beratungsleistung für Kunde DEF;M-0016
+2025-10-05;1200;8100;2369,14;Ertrag;Warenlieferung an Firma ABC;M-0016
+2024-06-19;1200;8200;2535,38;Ertrag;Beratungsleistung für Kunde DEF;M-0016
+2024-01-15;4100;1200;3254,33;Aufwand;Gehaltszahlung an Mitarbeiter für January 2024;M-0016
+2024-12-21;1200;8200;328,36;Ertrag;Softwareentwicklung (Phase 1);M-0016
+2024-06-04;1200;8300;3969,10;Ertrag;Zinsertrag aus Festgeldkonto;M-0016
+2025-02-07;1200;8300;955,21;Ertrag;Mieteinahmen Nebengebäude;M-0016
+2025-11-21;4600;1200;2718,52;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0016
+2025-10-23;4200;1200;3553,82;Aufwand;Abführung Sozialabgaben und Lohnsteuer für October 2025;M-0016
+2025-06-11;4700;1200;1188,59;Aufwand;Telefon- und Internetkosten June;M-0016
+2024-08-22;1200;8100;3926,47;Ertrag;Erlös aus Produkt X (Kunde 246);M-0016
+2024-05-10;1200;8300;2000,85;Ertrag;Mieteinahmen Nebengebäude;M-0016
+2025-06-22;1200;8200;3367,84;Ertrag;Softwareentwicklung (Phase 2);M-0016
+2025-08-24;4200;1200;183,68;Aufwand;Abführung Sozialabgaben und Lohnsteuer für August 2025;M-0016
+2025-02-26;4100;1200;152,81;Aufwand;Gehaltszahlung an Mitarbeiter für February 2025;M-0016
+2024-12-14;4300;1200;890,00;Aufwand;Mietzahlung für Büroräume, Fälligkeit 14.12.2024;M-0016
+2025-08-27;4000;1200;1466,74;Aufwand;Einkauf Rohmaterial für Produktion;M-0016
+2024-01-03;1200;8200;2273,42;Ertrag;Beratungsleistung für Kunde DEF;M-0016
+2025-03-03;1200;8200;2062,70;Ertrag;Beratungsleistung für Kunde DEF;M-0016
+2025-12-16;4700;1200;1202,88;Aufwand;Telefon- und Internetkosten December;M-0016
+2025-01-09;4200;1200;325,99;Aufwand;Abführung Sozialabgaben und Lohnsteuer für January 2025;M-0016
+2025-02-20;4200;1200;717,37;Aufwand;Abführung Sozialabgaben und Lohnsteuer für February 2025;M-0016
+2024-02-01;1200;8300;4363,84;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0016
+2024-04-21;1200;8300;973,14;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0016
+2025-10-24;4200;1200;482,36;Aufwand;Abführung Sozialabgaben und Lohnsteuer für October 2025;M-0016
+2024-01-01;4300;1200;1965,56;Aufwand;Mietzahlung für Büroräume, Fälligkeit 01.01.2024;M-0016
+2025-11-29;4200;1200;360,41;Aufwand;Abführung Sozialabgaben und Lohnsteuer für November 2025;M-0016
+2024-07-21;4600;1200;2634,58;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0016
+2025-09-01;4300;1200;58,74;Aufwand;Mietzahlung für Büroräume, Fälligkeit 01.09.2025;M-0016
+2024-06-12;4200;1200;2062,20;Aufwand;Abführung Sozialabgaben und Lohnsteuer für June 2024;M-0016
+2024-06-21;4200;1200;844,18;Aufwand;Abführung Sozialabgaben und Lohnsteuer für June 2024;M-0016
+2025-11-12;4300;1200;2677,49;Aufwand;Mietzahlung für Büroräume, Fälligkeit 12.11.2025;M-0016

@@ -1,0 +1,23 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2024-07-19;4300;1200;4384,14;Aufwand;Mietzahlung für Büroräume, Fälligkeit 19.07.2024;M-0006
+2025-09-03;1200;8200;4365,70;Ertrag;Softwareentwicklung (Phase 2);M-0006
+2025-04-20;1200;8300;4234,14;Ertrag;Mieteinahmen Nebengebäude;M-0006
+2025-03-07;4300;1200;1015,10;Aufwand;Mietzahlung für Büroräume, Fälligkeit 07.03.2025;M-0006
+2025-02-05;1200;8200;4308,43;Ertrag;Beratungsleistung für Kunde DEF;M-0006
+2025-04-17;4200;1200;3379,26;Aufwand;Abführung Sozialabgaben und Lohnsteuer für April 2025;M-0006
+2024-07-31;1200;8200;4503,37;Ertrag;Softwareentwicklung (Phase 1);M-0006
+2025-10-02;1200;8100;1699,70;Ertrag;Warenlieferung an Firma ABC;M-0006
+2025-09-23;1200;8200;1761,86;Ertrag;Beratungsleistung für Kunde DEF;M-0006
+2025-09-15;1200;8300;3494,64;Ertrag;Mieteinahmen Nebengebäude;M-0006
+2025-08-12;4500;1200;2304,35;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0006
+2025-06-01;4200;1200;554,34;Aufwand;Abführung Sozialabgaben und Lohnsteuer für June 2025;M-0006
+2024-09-23;1200;8200;4273,42;Ertrag;Beratungsleistung für Kunde DEF;M-0006
+2024-08-04;4400;1200;1017,26;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0006
+2025-07-28;4500;1200;4270,02;Aufwand;Hotelkosten für Geschäftsreise;M-0006
+2024-11-07;4400;1200;3466,70;Aufwand;Kosten für Druckerpatronen;M-0006
+2024-08-20;4700;1200;1040,03;Aufwand;Werbekosten für Online-Kampagne;M-0006
+2025-07-08;1200;8100;3252,56;Ertrag;Verkauf von Waren (Rechnungsnr. 36424);M-0006
+2025-01-23;1200;8100;1781,77;Ertrag;Warenlieferung an Firma ABC;M-0006
+2024-06-09;1200;8200;1950,42;Ertrag;Softwareentwicklung (Phase 2);M-0006
+2025-04-02;4300;1200;4692,79;Aufwand;Mietzahlung für Büroräume, Fälligkeit 02.04.2025;M-0006
+2024-09-01;1200;8200;781,29;Ertrag;Beratungsleistung für Kunde DEF;M-0006

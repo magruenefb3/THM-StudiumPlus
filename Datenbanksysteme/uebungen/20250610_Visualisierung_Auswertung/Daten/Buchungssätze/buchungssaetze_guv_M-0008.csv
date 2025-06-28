@@ -1,0 +1,51 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2025-03-12;1200;8300;1034,26;Ertrag;Mieteinahmen Nebengebäude;M-0008
+2024-01-05;1200;8300;4486,07;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0008
+2025-01-17;4200;1200;1745,53;Aufwand;Abführung Sozialabgaben und Lohnsteuer für January 2025;M-0008
+2025-11-08;4100;1200;4957,03;Aufwand;Gehaltszahlung an Mitarbeiter für November 2025;M-0008
+2025-06-29;4600;1200;3713,94;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0008
+2025-05-01;1200;8300;3619,16;Ertrag;Zinsertrag aus Festgeldkonto;M-0008
+2024-01-10;1200;8200;2693,87;Ertrag;Softwareentwicklung (Phase 3);M-0008
+2025-06-23;4400;1200;3855,89;Aufwand;Kauf Briefmarken und Umschläge;M-0008
+2025-02-09;1200;8200;2702,11;Ertrag;Dienstleistungsgebühren (Projekt E68);M-0008
+2025-08-19;1200;8200;1826,37;Ertrag;Dienstleistungsgebühren (Projekt N61);M-0008
+2025-11-26;1200;8300;2170,81;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0008
+2025-12-18;4500;1200;3043,53;Aufwand;Hotelkosten für Geschäftsreise;M-0008
+2024-02-25;4700;1200;2930,94;Aufwand;Reparatur Bürostuhl;M-0008
+2025-02-26;1200;8300;3635,20;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0008
+2024-11-29;4400;1200;1190,00;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0008
+2025-01-13;4600;1200;467,16;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0008
+2025-10-22;4200;1200;455,24;Aufwand;Abführung Sozialabgaben und Lohnsteuer für October 2025;M-0008
+2024-12-30;1200;8300;1029,42;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0008
+2025-11-02;1200;8300;1562,30;Ertrag;Mieteinahmen Nebengebäude;M-0008
+2024-07-24;1200;8300;4462,52;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0008
+2024-02-05;1200;8100;4240,78;Ertrag;Verkauf von Waren (Rechnungsnr. 73907);M-0008
+2024-02-02;1200;8300;2606,55;Ertrag;Mieteinahmen Nebengebäude;M-0008
+2025-05-07;1200;8100;1005,54;Ertrag;Verkauf von Waren (Rechnungsnr. 23110);M-0008
+2024-02-13;1200;8100;2600,40;Ertrag;Erlös aus Produkt X (Kunde 791);M-0008
+2024-01-11;1200;8100;2312,75;Ertrag;Verkauf von Waren (Rechnungsnr. 72855);M-0008
+2024-06-06;1200;8200;3305,85;Ertrag;Dienstleistungsgebühren (Projekt N38);M-0008
+2025-10-01;1200;8200;806,28;Ertrag;Beratungsleistung für Kunde DEF;M-0008
+2024-10-10;4000;1200;3640,81;Aufwand;Kosten für Handelswaren;M-0008
+2025-07-20;4000;1200;4161,34;Aufwand;Einkauf Rohmaterial für Produktion;M-0008
+2024-03-28;1200;8200;2314,13;Ertrag;Beratungsleistung für Kunde DEF;M-0008
+2025-12-06;1200;8100;1805,72;Ertrag;Erlös aus Produkt X (Kunde 428);M-0008
+2024-01-22;1200;8100;375,43;Ertrag;Warenlieferung an Firma ABC;M-0008
+2024-03-22;4700;1200;61,02;Aufwand;Reparatur Bürostuhl;M-0008
+2024-07-07;4100;1200;4794,80;Aufwand;Gehaltszahlung an Mitarbeiter für July 2024;M-0008
+2025-10-28;1200;8200;1517,38;Ertrag;Softwareentwicklung (Phase 1);M-0008
+2025-01-04;4300;1200;572,08;Aufwand;Mietzahlung für Büroräume, Fälligkeit 04.01.2025;M-0008
+2024-05-11;4600;1200;3732,98;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Büromöbel);M-0008
+2025-06-22;4600;1200;4082,25;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Büromöbel);M-0008
+2024-12-02;4100;1200;1201,00;Aufwand;Gehaltszahlung an Mitarbeiter für December 2024;M-0008
+2025-02-14;4700;1200;4234,93;Aufwand;Reparatur Bürostuhl;M-0008
+2024-01-10;4300;1200;1765,90;Aufwand;Mietzahlung für Büroräume, Fälligkeit 10.01.2024;M-0008
+2024-02-02;4600;1200;3440,74;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0008
+2024-06-25;1200;8200;767,98;Ertrag;Softwareentwicklung (Phase 3);M-0008
+2025-08-25;1200;8300;4847,92;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0008
+2025-09-17;1200;8100;640,92;Ertrag;Warenlieferung an Firma ABC;M-0008
+2025-03-24;1200;8300;3345,12;Ertrag;Mieteinahmen Nebengebäude;M-0008
+2025-05-16;1200;8100;2399,29;Ertrag;Warenlieferung an Firma ABC;M-0008
+2024-05-06;1200;8300;2547,59;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0008
+2025-08-31;1200;8300;1293,75;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0008
+2024-12-27;1200;8200;1364,79;Ertrag;Beratungsleistung für Kunde DEF;M-0008

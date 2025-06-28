@@ -1,0 +1,26 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2025-09-24;4600;1200;731,95;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0010
+2025-10-20;4500;1200;3839,51;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0010
+2025-07-31;1200;8300;872,74;Ertrag;Mieteinahmen Nebengebäude;M-0010
+2025-07-08;1200;8100;2783,64;Ertrag;Warenlieferung an Firma ABC;M-0010
+2024-04-10;4000;1200;207,72;Aufwand;Kosten für Handelswaren;M-0010
+2025-10-10;4300;1200;4636,08;Aufwand;Mietzahlung für Büroräume, Fälligkeit 10.10.2025;M-0010
+2025-05-15;1200;8300;4343,36;Ertrag;Mieteinahmen Nebengebäude;M-0010
+2025-07-05;4600;1200;1566,69;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0010
+2024-05-04;1200;8300;658,84;Ertrag;Zinsertrag aus Festgeldkonto;M-0010
+2024-02-11;4100;1200;397,93;Aufwand;Gehaltszahlung an Mitarbeiter für February 2024;M-0010
+2024-03-31;1200;8300;156,46;Ertrag;Mieteinahmen Nebengebäude;M-0010
+2025-02-06;1200;8300;4151,07;Ertrag;Zinsertrag aus Festgeldkonto;M-0010
+2024-06-29;4500;1200;296,56;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0010
+2024-01-02;1200;8100;455,74;Ertrag;Erlös aus Produkt X (Kunde 265);M-0010
+2024-08-06;1200;8100;593,77;Ertrag;Warenlieferung an Firma ABC;M-0010
+2025-10-12;4700;1200;1916,71;Aufwand;Telefon- und Internetkosten October;M-0010
+2024-12-21;4700;1200;4702,13;Aufwand;Telefon- und Internetkosten December;M-0010
+2025-11-21;4200;1200;1154,42;Aufwand;Abführung Sozialabgaben und Lohnsteuer für November 2025;M-0010
+2024-01-20;1200;8300;1742,22;Ertrag;Zinsertrag aus Festgeldkonto;M-0010
+2024-07-05;4700;1200;2666,94;Aufwand;Werbekosten für Online-Kampagne;M-0010
+2025-10-08;4600;1200;1364,33;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0010
+2024-07-29;1200;8300;3081,26;Ertrag;Zinsertrag aus Festgeldkonto;M-0010
+2025-06-27;4100;1200;1799,41;Aufwand;Gehaltszahlung an Mitarbeiter für June 2025;M-0010
+2024-09-14;1200;8100;498,24;Ertrag;Verkauf von Waren (Rechnungsnr. 54948);M-0010
+2024-01-11;4600;1200;746,08;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0010

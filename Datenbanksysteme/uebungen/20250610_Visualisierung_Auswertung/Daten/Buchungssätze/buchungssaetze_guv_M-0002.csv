@@ -1,0 +1,11 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2024-06-05;1200;8100;2655,34;Ertrag;Verkauf von Waren (Rechnungsnr. 70729);M-0002
+2025-07-20;1200;8100;4108,42;Ertrag;Erlös aus Produkt X (Kunde 695);M-0002
+2025-06-25;4700;1200;1005,35;Aufwand;Telefon- und Internetkosten June;M-0002
+2024-01-02;1200;8100;4908,74;Ertrag;Erlös aus Produkt X (Kunde 680);M-0002
+2024-12-08;1200;8300;2379,41;Ertrag;Mieteinahmen Nebengebäude;M-0002
+2024-11-17;4300;1200;4144,08;Aufwand;Mietzahlung für Büroräume, Fälligkeit 17.11.2024;M-0002
+2025-07-12;4000;1200;3098,62;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0002
+2024-09-13;1200;8300;1965,03;Ertrag;Mieteinahmen Nebengebäude;M-0002
+2024-01-19;4400;1200;3665,95;Aufwand;Kauf Briefmarken und Umschläge;M-0002
+2024-01-17;4700;1200;1302,04;Aufwand;Reparatur Bürostuhl;M-0002

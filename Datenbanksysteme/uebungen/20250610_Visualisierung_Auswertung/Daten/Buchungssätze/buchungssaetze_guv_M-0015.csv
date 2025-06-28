@@ -1,0 +1,90 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2024-05-10;1200;8100;3192,44;Ertrag;Erlös aus Produkt X (Kunde 223);M-0015
+2025-04-16;4700;1200;1606,34;Aufwand;Werbekosten für Online-Kampagne;M-0015
+2025-04-07;1200;8300;4659,64;Ertrag;Mieteinahmen Nebengebäude;M-0015
+2024-03-24;4200;1200;4467,88;Aufwand;Abführung Sozialabgaben und Lohnsteuer für March 2024;M-0015
+2025-11-06;4500;1200;1166,36;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0015
+2025-11-28;4600;1200;3390,13;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0015
+2024-02-09;1200;8300;1391,18;Ertrag;Mieteinahmen Nebengebäude;M-0015
+2024-07-08;4500;1200;4638,64;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0015
+2024-05-26;4500;1200;3550,11;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0015
+2024-06-29;1200;8200;614,94;Ertrag;Beratungsleistung für Kunde DEF;M-0015
+2024-09-20;4200;1200;1810,87;Aufwand;Abführung Sozialabgaben und Lohnsteuer für September 2024;M-0015
+2024-07-16;1200;8100;3603,14;Ertrag;Warenlieferung an Firma ABC;M-0015
+2024-05-31;1200;8200;1334,50;Ertrag;Dienstleistungsgebühren (Projekt L53);M-0015
+2025-09-13;4600;1200;2564,29;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0015
+2025-08-08;4300;1200;3146,86;Aufwand;Mietzahlung für Büroräume, Fälligkeit 08.08.2025;M-0015
+2024-12-06;1200;8100;4723,98;Ertrag;Erlös aus Produkt X (Kunde 887);M-0015
+2025-02-13;4400;1200;4129,71;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0015
+2024-04-30;1200;8300;1890,81;Ertrag;Mieteinahmen Nebengebäude;M-0015
+2025-04-06;1200;8200;593,01;Ertrag;Beratungsleistung für Kunde DEF;M-0015
+2025-07-07;4700;1200;3479,82;Aufwand;Telefon- und Internetkosten July;M-0015
+2024-10-24;1200;8200;2240,78;Ertrag;Dienstleistungsgebühren (Projekt R67);M-0015
+2024-11-04;4200;1200;4984,05;Aufwand;Abführung Sozialabgaben und Lohnsteuer für November 2024;M-0015
+2024-05-22;1200;8300;3741,32;Ertrag;Mieteinahmen Nebengebäude;M-0015
+2024-12-28;1200;8100;4404,13;Ertrag;Warenlieferung an Firma ABC;M-0015
+2025-10-08;1200;8300;2345,90;Ertrag;Zinsertrag aus Festgeldkonto;M-0015
+2024-02-07;4500;1200;3180,45;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0015
+2025-05-31;1200;8200;4226,48;Ertrag;Beratungsleistung für Kunde DEF;M-0015
+2024-05-28;1200;8200;4432,45;Ertrag;Dienstleistungsgebühren (Projekt R71);M-0015
+2025-04-26;1200;8200;412,43;Ertrag;Beratungsleistung für Kunde DEF;M-0015
+2025-10-09;1200;8100;4345,47;Ertrag;Warenlieferung an Firma ABC;M-0015
+2025-07-17;1200;8300;1146,60;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0015
+2025-06-16;1200;8200;3910,00;Ertrag;Softwareentwicklung (Phase 3);M-0015
+2025-07-06;1200;8100;4708,62;Ertrag;Warenlieferung an Firma ABC;M-0015
+2024-03-13;1200;8200;1832,19;Ertrag;Softwareentwicklung (Phase 2);M-0015
+2024-12-20;1200;8100;1514,07;Ertrag;Warenlieferung an Firma ABC;M-0015
+2025-09-22;1200;8200;278,02;Ertrag;Dienstleistungsgebühren (Projekt W48);M-0015
+2024-05-22;1200;8100;3871,64;Ertrag;Erlös aus Produkt X (Kunde 445);M-0015
+2025-01-29;1200;8200;2717,73;Ertrag;Softwareentwicklung (Phase 1);M-0015
+2025-12-18;4500;1200;2204,52;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0015
+2025-01-12;4200;1200;3851,88;Aufwand;Abführung Sozialabgaben und Lohnsteuer für January 2025;M-0015
+2024-09-26;1200;8300;1614,84;Ertrag;Zinsertrag aus Festgeldkonto;M-0015
+2024-03-02;4700;1200;447,45;Aufwand;Reparatur Bürostuhl;M-0015
+2024-08-04;1200;8300;3833,56;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0015
+2025-09-26;1200;8300;3457,03;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0015
+2024-06-11;4200;1200;2377,99;Aufwand;Abführung Sozialabgaben und Lohnsteuer für June 2024;M-0015
+2024-10-04;4000;1200;2612,99;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0015
+2025-01-10;4100;1200;2801,22;Aufwand;Gehaltszahlung an Mitarbeiter für January 2025;M-0015
+2024-10-04;1200;8200;3493,73;Ertrag;Dienstleistungsgebühren (Projekt N38);M-0015
+2024-01-11;1200;8300;1567,19;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0015
+2025-09-15;1200;8100;4136,52;Ertrag;Erlös aus Produkt X (Kunde 851);M-0015
+2024-04-22;1200;8200;4004,70;Ertrag;Softwareentwicklung (Phase 2);M-0015
+2025-12-08;1200;8300;545,39;Ertrag;Mieteinahmen Nebengebäude;M-0015
+2025-11-27;4500;1200;2366,54;Aufwand;Hotelkosten für Geschäftsreise;M-0015
+2025-08-13;4100;1200;2295,68;Aufwand;Gehaltszahlung an Mitarbeiter für August 2025;M-0015
+2025-08-15;1200;8200;2587,42;Ertrag;Softwareentwicklung (Phase 3);M-0015
+2024-02-04;4700;1200;4991,65;Aufwand;Telefon- und Internetkosten February;M-0015
+2025-08-09;4000;1200;3043,12;Aufwand;Einkauf Rohmaterial für Produktion;M-0015
+2024-01-08;4300;1200;1862,58;Aufwand;Mietzahlung für Büroräume, Fälligkeit 08.01.2024;M-0015
+2025-12-22;4600;1200;4599,23;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0015
+2025-07-06;4300;1200;3658,63;Aufwand;Mietzahlung für Büroräume, Fälligkeit 06.07.2025;M-0015
+2024-04-16;1200;8200;4495,90;Ertrag;Beratungsleistung für Kunde DEF;M-0015
+2025-09-30;4000;1200;3358,21;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0015
+2025-05-16;1200;8100;3990,62;Ertrag;Erlös aus Produkt X (Kunde 123);M-0015
+2025-12-10;4400;1200;2155,47;Aufwand;Kauf Briefmarken und Umschläge;M-0015
+2025-02-23;4100;1200;1605,31;Aufwand;Gehaltszahlung an Mitarbeiter für February 2025;M-0015
+2024-02-28;4700;1200;3047,82;Aufwand;Werbekosten für Online-Kampagne;M-0015
+2025-08-10;4400;1200;3342,58;Aufwand;Beschaffung Büromaterial (Stifte, Papier);M-0015
+2025-08-04;1200;8300;3620,00;Ertrag;Mieteinahmen Nebengebäude;M-0015
+2025-03-13;4300;1200;4733,56;Aufwand;Mietzahlung für Büroräume, Fälligkeit 13.03.2025;M-0015
+2024-10-13;1200;8200;4593,70;Ertrag;Dienstleistungsgebühren (Projekt Q39);M-0015
+2024-03-26;4100;1200;3392,86;Aufwand;Gehaltszahlung an Mitarbeiter für March 2024;M-0015
+2024-08-01;1200;8100;1422,41;Ertrag;Erlös aus Produkt X (Kunde 410);M-0015
+2024-12-23;1200;8300;1048,56;Ertrag;Mieteinahmen Nebengebäude;M-0015
+2025-09-28;1200;8300;2889,91;Ertrag;Zinsertrag aus Festgeldkonto;M-0015
+2024-02-18;1200;8200;335,88;Ertrag;Dienstleistungsgebühren (Projekt L98);M-0015
+2024-10-31;1200;8300;1931,83;Ertrag;Mieteinahmen Nebengebäude;M-0015
+2024-05-13;1200;8200;2838,63;Ertrag;Softwareentwicklung (Phase 1);M-0015
+2024-09-27;1200;8100;3252,92;Ertrag;Verkauf von Waren (Rechnungsnr. 81249);M-0015
+2025-12-20;1200;8100;460,48;Ertrag;Warenlieferung an Firma ABC;M-0015
+2025-04-29;1200;8100;4438,28;Ertrag;Erlös aus Produkt X (Kunde 171);M-0015
+2024-03-22;4400;1200;2038,80;Aufwand;Kosten für Druckerpatronen;M-0015
+2025-08-15;4700;1200;2403,05;Aufwand;Telefon- und Internetkosten August;M-0015
+2024-10-10;4400;1200;2213,39;Aufwand;Kosten für Druckerpatronen;M-0015
+2025-04-25;4000;1200;3374,91;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0015
+2025-06-24;4100;1200;2651,58;Aufwand;Gehaltszahlung an Mitarbeiter für June 2025;M-0015
+2025-04-09;4600;1200;4189,65;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Büromöbel);M-0015
+2025-08-12;1200;8200;3105,33;Ertrag;Dienstleistungsgebühren (Projekt S18);M-0015
+2025-02-09;4700;1200;220,11;Aufwand;Werbekosten für Online-Kampagne;M-0015
+2024-04-19;4100;1200;1034,27;Aufwand;Gehaltszahlung an Mitarbeiter für April 2024;M-0015

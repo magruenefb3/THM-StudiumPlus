@@ -1,0 +1,13 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2024-12-11;1200;8100;815,71;Ertrag;Erlös aus Produkt X (Kunde 811);M-0001
+2024-04-11;1200;8200;4462,48;Ertrag;Dienstleistungsgebühren (Projekt K27);M-0001
+2024-03-12;4300;1200;2351,80;Aufwand;Mietzahlung für Büroräume, Fälligkeit 12.03.2024;M-0001
+2025-05-09;4300;1200;4139,27;Aufwand;Mietzahlung für Büroräume, Fälligkeit 09.05.2025;M-0001
+2025-07-15;1200;8300;3332,71;Ertrag;Mieteinahmen Nebengebäude;M-0001
+2025-07-30;4700;1200;2866,32;Aufwand;Werbekosten für Online-Kampagne;M-0001
+2024-06-24;4700;1200;655,93;Aufwand;Werbekosten für Online-Kampagne;M-0001
+2024-11-10;1200;8300;3189,99;Ertrag;Zinsertrag aus Festgeldkonto;M-0001
+2024-11-05;4000;1200;2684,59;Aufwand;Kosten für Handelswaren;M-0001
+2025-01-30;4000;1200;2637,97;Aufwand;Kosten für Handelswaren;M-0001
+2025-03-01;1200;8100;4263,47;Ertrag;Erlös aus Produkt X (Kunde 884);M-0001
+2025-02-11;4600;1200;4477,52;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (PKW);M-0001

@@ -1,0 +1,11 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2024-11-15;4300;1200;985,41;Aufwand;Mietzahlung für Büroräume, Fälligkeit 15.11.2024;M-0009
+2024-02-07;1200;8300;2764,62;Ertrag;Mieteinahmen Nebengebäude;M-0009
+2025-01-22;4500;1200;505,62;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0009
+2024-09-25;1200;8300;2104,22;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0009
+2025-06-28;4300;1200;1332,80;Aufwand;Mietzahlung für Büroräume, Fälligkeit 28.06.2025;M-0009
+2025-09-13;4000;1200;1093,69;Aufwand;Warenbezug für Verkauf (Lieferant Y);M-0009
+2024-11-27;4600;1200;1510,66;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0009
+2025-07-29;4200;1200;3935,53;Aufwand;Abführung Sozialabgaben und Lohnsteuer für July 2025;M-0009
+2025-01-16;1200;8200;2908,72;Ertrag;Dienstleistungsgebühren (Projekt J51);M-0009
+2024-01-11;4200;1200;3226,58;Aufwand;Abführung Sozialabgaben und Lohnsteuer für January 2024;M-0009

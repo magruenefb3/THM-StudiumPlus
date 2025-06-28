@@ -1,0 +1,31 @@
+Datum;Sollkonto;Habenkonto;Betrag;Art der Buchung;Buchungstext;Mandantennummer
+2025-02-11;4000;1200;1578,97;Aufwand;Einkauf Rohmaterial für Produktion;M-0004
+2024-12-21;4500;1200;3238,71;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0004
+2024-10-11;4500;1200;1186,00;Aufwand;Reisekostenabrechnung (Bahnfahrt Kunde GHI);M-0004
+2024-12-01;4600;1200;777,57;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Maschine);M-0004
+2025-09-14;1200;8200;97,62;Ertrag;Beratungsleistung für Kunde DEF;M-0004
+2024-07-11;4300;1200;4302,91;Aufwand;Mietzahlung für Büroräume, Fälligkeit 11.07.2024;M-0004
+2024-02-12;4700;1200;3720,90;Aufwand;Telefon- und Internetkosten February;M-0004
+2024-05-21;4500;1200;184,48;Aufwand;Fahrtkostenpauschale Mitarbeiter;M-0004
+2025-10-10;4000;1200;199,50;Aufwand;Einkauf Rohmaterial für Produktion;M-0004
+2025-08-22;4400;1200;2139,79;Aufwand;Kosten für Druckerpatronen;M-0004
+2025-06-30;4400;1200;2289,57;Aufwand;Kauf Briefmarken und Umschläge;M-0004
+2025-04-25;4600;1200;4279,07;Aufwand;Planmäßige Abschreibung auf Anlagevermögen (Büromöbel);M-0004
+2025-02-05;4000;1200;1819,80;Aufwand;Einkauf Rohmaterial für Produktion;M-0004
+2024-05-16;4700;1200;862,36;Aufwand;Reparatur Bürostuhl;M-0004
+2024-01-08;1200;8200;4847,41;Ertrag;Softwareentwicklung (Phase 3);M-0004
+2024-05-05;1200;8300;4366,58;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0004
+2025-03-10;4400;1200;3716,93;Aufwand;Kauf Briefmarken und Umschläge;M-0004
+2024-02-23;1200;8200;602,10;Ertrag;Softwareentwicklung (Phase 2);M-0004
+2024-08-14;1200;8300;722,07;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0004
+2025-09-21;1200;8100;1732,46;Ertrag;Verkauf von Waren (Rechnungsnr. 37975);M-0004
+2025-12-16;1200;8300;4042,35;Ertrag;Erlös aus dem Verkauf von Altmaterialien;M-0004
+2024-10-04;1200;8100;2485,13;Ertrag;Verkauf von Waren (Rechnungsnr. 93646);M-0004
+2024-11-30;4100;1200;3313,28;Aufwand;Gehaltszahlung an Mitarbeiter für November 2024;M-0004
+2025-01-26;1200;8200;2365,72;Ertrag;Softwareentwicklung (Phase 2);M-0004
+2025-12-08;1200;8200;1130,05;Ertrag;Beratungsleistung für Kunde DEF;M-0004
+2024-11-23;1200;8200;3912,29;Ertrag;Dienstleistungsgebühren (Projekt I90);M-0004
+2024-07-31;1200;8200;2548,54;Ertrag;Dienstleistungsgebühren (Projekt K12);M-0004
+2025-10-21;1200;8300;1993,10;Ertrag;Mieteinahmen Nebengebäude;M-0004
+2024-08-04;4300;1200;4812,26;Aufwand;Mietzahlung für Büroräume, Fälligkeit 04.08.2024;M-0004
+2025-09-21;1200;8200;4061,13;Ertrag;Softwareentwicklung (Phase 3);M-0004

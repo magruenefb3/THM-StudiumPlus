@@ -83,7 +83,6 @@ Stellen Sie sicher, dass der Datentyp der Spalte "Date" "Date" (nicht "Date/Time
 Datumsattribute hinzufügen:
 Jetzt haben Sie Ihre Datums-Spalte. Wählen Sie die Spalte "Date" aus. Gehen Sie zur Registerkarte "Spalte hinzufügen".
 
-
 Verwenden Sie den Datums-Button, um weitere Spalten hinzuzufügen. Markieren Sie vorher immer erneut die Date-Spalte.
 
 ![alt text](image.png)
